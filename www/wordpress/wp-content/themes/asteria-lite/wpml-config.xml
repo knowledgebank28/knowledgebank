@@ -1,0 +1,20 @@
+<wpml-config>
+    <admin-texts>
+        <key name="asteria_options">
+            <key name="block1_text_id" />
+            <key name="block2_text_id" />
+            <key name="block3_text_id" />
+            <key name="block4_text_id" />
+            <key name="block1_textarea_id" />
+            <key name="block2_textarea_id" />
+            <key name="block3_textarea_id" />
+            <key name="block4_textarea_id" />
+            <key name="welcm_textarea_id" />
+            <key name="offline_text_id" />
+            <key name="offline_msg_id" />
+            <key name="map_textarea_id" />
+            <key name="call_textarea_id" />
+            <key name="call_text_id" />
+        </key>
+    <admin-texts>
+<wpml-config>

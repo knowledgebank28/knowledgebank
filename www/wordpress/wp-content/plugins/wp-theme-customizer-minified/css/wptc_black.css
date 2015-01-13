@@ -1,0 +1,42 @@
+/**!
+ * @package WP Theme Customizer
+ */
+/*
+Style : Black
+*/
+
+#wptc_module{
+	background: #333;
+	color: #fefefe;
+}
+
+#wptc_module_show, #wptc_module_hide{
+	background-color: #222;
+}
+
+#wptc_module #wptc_module_right{
+	background: #222;
+}
+
+ul.wptc_module_menu li.active {
+    background-color: #222;
+}
+
+.wptc_module_head .wptc_module_heading,
+#wptc_module_right .wptc_module_body,
+.wptc_module_body .wptc_module_heading,
+.wptc_save_message{
+	color: #fefefe;
+}
+
+.wptc_module_head .wptc_module_slogan{
+	color: #999;
+}
+
+.wptc_color_input{
+	background: transparent !important;
+	text-shadow: 0 1px 0 #000;
+	color: #fefefe !important;
+}
+
+

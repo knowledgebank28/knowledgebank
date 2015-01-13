@@ -1,0 +1,248 @@
+/**!
+ * @package WP Theme Customizer
+ */
+/*
+Module Styles
+*/
+/*------------Global Styles------------*/
+.wptc_bradius{
+    -webkit-border-radius: 4px;
+    -khtml-border-radius: 4px;
+	-moz-border-radius: 4px;
+    border-radius: 4px;
+}
+.wptc_bshadow{
+	-webkit-box-shadow: 0 0 5px #888;
+	-moz-box-shadow: 0 0 5px #888;
+	box-shadow: 0 0 5px #888;
+}
+.wptc_clear{
+	clear: both;
+	height: 0.5px;
+}
+#wptc_module span{
+	margin: 0;
+	padding: 0;
+}
+
+#wptc_module_show, #wptc_module_hide{
+	height: 85px;
+	width: 30px;
+	cursor: pointer;
+	-webkit-border-top-right-radius: 4px;
+	-webkit-border-bottom-right-radius: 4px;
+	-moz-border-radius-topright: 4px;
+	-moz-border-radius-bottomright: 4px;
+	border-top-right-radius: 4px;
+	border-bottom-right-radius: 4px;
+	border-left: 0px;
+	background-image: url("../assets/settings.png");
+	z-index: 9999999999;
+}
+#wptc_module_show{
+	position: fixed;
+	left: -1px;
+	top: 150px;
+}
+
+#wptc_module_hide{
+	position: absolute;
+	right: -29px;
+	top: 50px;
+}
+/*-------------Panel Styles---------------*/
+
+#wptc_module{
+	position: fixed;
+	display: none;
+	width: 250px;
+	top: 100px;
+	left: 15px;
+	z-index: 999999;
+}
+#wptc_module_inner{
+	overflow: hidden;
+	width: 250px;
+}
+#wptc_module #wptc_module_left{
+	width: 40px;
+	height: auto;
+	float: left;
+	overflow: hidden;
+}
+
+ul.wptc_module_menu{
+	margin: 0;
+	padding: 0;
+	list-style:none;
+	float: left;
+}
+ul.wptc_module_menu li {
+    margin-bottom: 15px;
+    cursor: pointer;
+    display: block;
+    height: 40px;
+    width: 40px;
+
+}
+ul.wptc_module_menu li.wptc-li-colors {
+	background: url("../assets/icon-colors.png") no-repeat scroll 0 0 transparent;
+}
+
+ul.wptc_module_menu li.wptc-li-backgrounds {
+	background: url("../assets/icon-backgrounds.png") no-repeat scroll 0 0 transparent;
+}
+
+ul.wptc_module_menu li.wptc-li-effects {
+	background: url("../assets/icon-effects.png") no-repeat scroll 0 0 transparent;
+}
+
+ul.wptc_module_menu li:hover {
+    background-position: -40px 0;
+}
+ul.wptc_module_menu li.active {
+   background-position: -40px 0;
+   cursor: default !important;
+}
+
+#wptc_module #wptc_module_right{
+	width: 210px;
+	float: right;
+	overflow: hidden;
+}
+
+#wptc_module_right .wptc_module_head{
+	height: 45px;
+	margin: 0px 10px;
+	line-height: 45px;
+	border-bottom: 1px solid #999;
+}
+.wptc_module_head .wptc_module_heading{
+	font-size: 11px;
+	font-weight: bold;
+}
+.wptc_module_head .wptc_module_slogan{
+	font-size: 9px;
+}
+
+.wptc_save{
+	font-size: 12px;
+	position: absolute;
+	top: 5px;
+	right: 15px;
+}
+
+#wptc_module_right .wptc_module_body{
+	height: auto;
+	overflow: auto;
+	margin: 10px;
+}
+
+.wptc_module_body .wptc_module_heading{
+	font-size: 13px;
+}
+.wptc_module_body .wptc_module_content{
+	height: auto;
+	width: auto;
+	overflow:auto;
+	margin: 10px 0;
+	max-height: 245px;
+}
+.wptc_bg_img_div, .wptc_color_box_div {
+	float: left;
+	height: 25px;
+	width: 25px;
+	margin: 4px 5.5px;
+	cursor: pointer;
+	border: 1px solid #999;
+}
+.wptc_selected_color_palatte, .wptc_selected_bg_image, .wptc_activated_mode, .wptc_activated_effect{
+	border: 1px dashed #fefefe;
+	-webkit-box-shadow: 0 0 10px #000;
+	-moz-box-shadow: 0 0 10px #000;
+	box-shadow: 0 0 10px #000;
+	-webkit-border-radius: 4px;
+    -khtml-border-radius: 4px;
+	-moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.wptc_color_previewer{
+	-webkit-border-radius: 4px;
+	-khtml-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	width: 30px; 
+	height: 30px; 
+	border: 1px solid #ccc;
+	float: left; 
+}
+
+.wptc_center{
+	margin: auto;
+	width: 120px;
+	overflow: auto;
+}
+
+.wptc_color_input{
+	-webkit-border-radius: 4px;
+	-khtml-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	width: 70px; 
+	height: 30px;
+	font-size: 13px !important;
+	margin: 0 5px;
+	padding: 0 0 0 5px !important;
+	border: 1px solid #ccc;
+	float: left; 
+}
+
+.wptc_button_font_preview{
+	margin: 0 3px;
+	padding: 5px 12px;
+	font-size: 12px;
+	cursor: default;
+	box-shadow: 0;
+	border: 1px solid #aaa;
+}
+
+.wptc_button_font_preview:active{
+	margin: 0 3px;
+	padding: 7px 12px;
+	font-size: 12px;
+	cursor: default;
+	box-shadow: 0 !important;
+}
+
+.wptc_mode{
+	float: left;
+	width: 80px;
+	height: 90px;
+	margin: 4px 7px;
+	cursor: pointer;
+}
+
+.wptc_effect{
+	float: left;
+	width: 50px;
+	height: auto;
+	margin: 4px 5.5px;
+	cursor: pointer;
+}
+
+.wptc_module_dragger{
+	text-align: center;
+	font-size: 12px;
+	margin: 10px 0 10px;
+	cursor: move;
+}
+
+.wptc_blank_div{
+	width: 0px !important;
+	height: 0px !important;
+	padding: 0px !important;
+	margin: 0px !important;
+	display: none !important;
+	visibility:  hidden !important;
+}

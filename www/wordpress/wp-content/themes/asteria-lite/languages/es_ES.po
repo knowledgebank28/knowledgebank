@@ -1,0 +1,1434 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Asteria\n"
+"POT-Creation-Date: 2013-10-02 03:06+0600\n"
+"PO-Revision-Date: 2013-10-15 15:16+0600\n"
+"Last-Translator: \n"
+"Language-Team: Towfiq I.\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: asteria\n"
+
+#: asteria/404.php:4
+msgid "Page Not Found"
+msgstr "Página no encontrada"
+
+#: asteria/404.php:13
+msgid ""
+"Server cannot find the file you requested. File has either been moved or "
+"deleted, or you entered the wrong URL or document name. Look at the URL. If "
+"a word looks misspelled, then correct it and try it again. If that doesnt "
+"work You can try our search option to find what you are looking for."
+msgstr ""
+"El servidor no puede hallar el archivo requerido. El archivo ha sido movido "
+"o eliminado, o ingresó una URL o nombre de documento incorrectos. Observe la "
+"URL. Si alguna palabra está mal escrita, corríjala e intente de nuevo. Si "
+"eso no funciona, puede intentar con nuestra opción de búsqueda para hallar "
+"lo que está buscando."
+
+#: asteria/asteria_options.php:14
+msgid "Asteria Options"
+msgstr "Opciones Asteira"
+
+#: asteria/asteria_options.php:35
+msgid "Basic"
+msgstr "Básico"
+
+#: asteria/asteria_options.php:36
+msgid "Front Page"
+msgstr "Página Principal"
+
+#: asteria/asteria_options.php:37
+msgid "Slider"
+msgstr "Diapositiva"
+
+#: asteria/asteria_options.php:38 asteria/asteria_options.php:332
+msgid "Style"
+msgstr "Estilo"
+
+#: asteria/asteria_options.php:39
+msgid "TypoGraphy"
+msgstr "Tipografía"
+
+#: asteria/asteria_options.php:40
+msgid "Social"
+msgstr "Social"
+
+#: asteria/asteria_options.php:41
+msgid "Miscellaneous"
+msgstr "Varios"
+
+#: asteria/asteria_options.php:42 asteria/asteria_options.php:511
+msgid "Mobile Layout"
+msgstr "Diseño para móvil"
+
+#: asteria/asteria_options.php:43 asteria/asteria_options.php:537
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: asteria/asteria_options.php:44 asteria/asteria_options.php:554
+msgid "Maintanace Mode"
+msgstr "Modo de mantenimiento"
+
+#: asteria/asteria_options.php:45
+msgid "Import/Export"
+msgstr "Importar/Exportar"
+
+#: asteria/asteria_options.php:46 asteria/asteria_options.php:601
+msgid "About The Theme"
+msgstr "Acerca del tema"
+
+#: asteria/asteria_options.php:47 asteria/asteria_options.php:615
+msgid "Upgrade to PRO"
+msgstr "Actualice a PRO"
+
+#: asteria/asteria_options.php:48 asteria/asteria_options.php:629
+msgid "Documentation"
+msgstr "Documentación"
+
+#: asteria/asteria_options.php:66
+msgid "Basic Settings"
+msgstr "Configuración básica"
+
+#: asteria/asteria_options.php:69
+msgid "Logo/Header Image "
+msgstr "Logotipo/Imagen de la Cabecera"
+
+#: asteria/asteria_options.php:69
+msgid "Click the \"Upload\" button to upload your logo Image."
+msgstr "Haga clic en el botón \"Cargar\" para cargar su imagen de logotipo."
+
+#: asteria/asteria_options.php:72
+msgid "Site Width"
+msgstr "Ancho del sitio"
+
+#: asteria/asteria_options.php:72
+msgid "No matter which layout you select the site will be responsive"
+msgstr "No importa qué diseño elija, el sitio funcionará"
+
+#: asteria/asteria_options.php:75
+msgid "Header Type"
+msgstr "Tipo de Cabecera"
+
+#: asteria/asteria_options.php:75
+msgid "Change how the header looks"
+msgstr "Cambiar el aspecto de la cabecera"
+
+#: asteria/asteria_options.php:79
+msgid "Category, Archive Page posts layout"
+msgstr "Categoría, diseño de las publicaciones de la Página de Archivo"
+
+#: asteria/asteria_options.php:79
+msgid "Select how you want to display posts on category and archive pages"
+msgstr ""
+"Elija cómo desea que aparezcan las publicaciones en las páginas de archivo y "
+"categoría"
+
+#: asteria/asteria_options.php:84
+msgid "Page Header Type"
+msgstr "Tipo de Cabecera de la Página"
+
+#: asteria/asteria_options.php:84
+msgid "Change how the Page Title Looks"
+msgstr "Cambie el aspecto del Título de la Página"
+
+#: asteria/asteria_options.php:87
+msgid "Ajax Pagination"
+msgstr "Paginación Ajax"
+
+#: asteria/asteria_options.php:87 asteria/asteria_options.php:90
+msgid "Ajax pagination(Go to next page without reloadong the page) "
+msgstr ""
+"Paginación Ajax (se dirije a la página siguiente sin recargar la página) "
+
+#: asteria/asteria_options.php:90
+msgid "Rounded Corners"
+msgstr "Esquinas Redondeadas"
+
+#: asteria/asteria_options.php:93
+msgid "To Top Button"
+msgstr "Al Botón Superior"
+
+#: asteria/asteria_options.php:93
+msgid ""
+"Turn On/Off \"To Top Button\"(The button that appears on bottom right when "
+"you scroll down to pages.) "
+msgstr ""
+"Activar/Desactivar \"Al Botón Superior\" (El botón que aparece en la parte "
+"inferior derecha cuando se desplaza hacia la parte inferior de las páginas)."
+
+#: asteria/asteria_options.php:96
+msgid "Footer Copyright Text "
+msgstr "Texto de Derechos Reservados al pie de página"
+
+#: asteria/asteria_options.php:96
+msgid "Your copyright text here"
+msgstr "Sus textos de derechos reservados aquí"
+
+#: asteria/asteria_options.php:121
+msgid "Front Page Options"
+msgstr "Opciones de página principal"
+
+#: asteria/asteria_options.php:123
+msgid "<span class=\"ast_smalltit\">Frontpage Elements Settings</span>"
+msgstr ""
+"<span class=\"ast_smalltit\">Configuración de los Elementos de la Página "
+"Principal</ span>"
+
+#: asteria/asteria_options.php:127 asteria/asteria_options.php:263
+msgid "Blocks"
+msgstr "Bloques"
+
+#: asteria/asteria_options.php:130
+msgid "Hide Block 1"
+msgstr "Ocultar Bloque 1"
+
+#: asteria/asteria_options.php:132
+msgid "Block 1 Title "
+msgstr "Título de Bloque 1"
+
+#: asteria/asteria_options.php:134
+msgid "Block 1 Icon"
+msgstr "Icono de Bloque 1"
+
+#: asteria/asteria_options.php:136
+msgid "Block 1 Content"
+msgstr "Contenido de Bloque 1"
+
+#: asteria/asteria_options.php:139
+msgid "Hide Block 2"
+msgstr "Ocultar Bloque 2"
+
+#: asteria/asteria_options.php:141
+msgid "Block 2 Title "
+msgstr "Título de Bloque 2"
+
+#: asteria/asteria_options.php:143
+msgid "Block 2 Icon"
+msgstr "Icono de Bloque 2"
+
+#: asteria/asteria_options.php:145
+msgid "Block 2 Content"
+msgstr "Contenido de Bloque 2"
+
+#: asteria/asteria_options.php:149
+msgid "Hide Block 3"
+msgstr "Ocultar Bloque 3"
+
+#: asteria/asteria_options.php:151
+msgid "Block 3 Title "
+msgstr "Título de Bloque 3"
+
+#: asteria/asteria_options.php:153
+msgid "Block 3 Icon"
+msgstr "Icono de Bloque 3"
+
+#: asteria/asteria_options.php:155
+msgid "Block 3 Content"
+msgstr "Contenido de Bloque 3"
+
+#: asteria/asteria_options.php:159
+msgid "Hide Block 4"
+msgstr "Ocultar Bloque 4"
+
+#: asteria/asteria_options.php:161
+msgid "Block 4 Title "
+msgstr "Título de Bloque 4"
+
+#: asteria/asteria_options.php:163
+msgid "Block 4 Icon"
+msgstr "Icono de Bloque 4"
+
+#: asteria/asteria_options.php:165
+msgid "Block 4 Content"
+msgstr "Contenido de Bloque 4"
+
+#: asteria/asteria_options.php:171 asteria/asteria_options.php:174
+#: asteria/asteria_options.php:263
+msgid "Welcome Text"
+msgstr "Texto de bienvenida"
+
+#: asteria/asteria_options.php:176 asteria/asteria_options.php:245
+msgid "Background Color "
+msgstr "Color de fondo"
+
+#: asteria/asteria_options.php:181 asteria/asteria_options.php:263
+msgid "Tabs"
+msgstr "Pestañas"
+
+#: asteria/asteria_options.php:188
+msgid "Tab Title "
+msgstr "Título de la pestaña"
+
+#: asteria/asteria_options.php:189
+msgid "Tab Content "
+msgstr "Contenido de la pestaña"
+
+#: asteria/asteria_options.php:195
+msgid "Click the \"Add New\" button to add a new tab."
+msgstr ""
+"Haga clic en el botón \"Agregar nueva\" para agregar una nueva etiqueta."
+
+#: asteria/asteria_options.php:195
+msgid ""
+"Note: Upon Clicking the Add New Button the visual editor may not appear "
+"properly. Click the \"Save Changes\" button from top and the editor will "
+"appear just fine."
+msgstr ""
+"Nota: tras hacer clic en el botón de Agregar Nueva, el editor visual podría "
+"aparecer con errores. Haga clic en el botón \"Guardar cambios\" de la parte "
+"superior y el editor aparecerá sin alteraciones."
+
+#: asteria/asteria_options.php:201
+msgid "Frontpage Posts"
+msgstr "Publicaciones de página principal"
+
+#: asteria/asteria_options.php:203 asteria/asteria_options.php:229
+msgid "Title &amp; Description"
+msgstr "Título & descripción"
+
+#: asteria/asteria_options.php:206
+msgid "Posts layout"
+msgstr "Diseño de las publicaciones"
+
+#: asteria/asteria_options.php:206
+msgid "Select how you want to display posts on Front page"
+msgstr ""
+"Elija de qué manera quiere que las publicaciones se muestren en la Página "
+"Principal"
+
+#: asteria/asteria_options.php:215
+msgid "Display posts from a Category"
+msgstr "Mostrar publicaciones de una categoría"
+
+#: asteria/asteria_options.php:217
+msgid "Category Name"
+msgstr "Nombre de categoría"
+
+#: asteria/asteria_options.php:219
+msgid "Number of Posts "
+msgstr "Número de Publicaciones"
+
+#: asteria/asteria_options.php:219 asteria/asteria_options.php:291
+msgid "must be numeric value"
+msgstr "Debe ser un valor numérico"
+
+#: asteria/asteria_options.php:227 asteria/asteria_options.php:263
+msgid "Location Map"
+msgstr "Mapa de ubicación"
+
+#: asteria/asteria_options.php:231
+msgid "Lattitude and Longitude "
+msgstr "Latitud y longitud"
+
+#: asteria/asteria_options.php:231
+msgid ""
+"Lattitude and Longitude should be seperated by comma. eg: 53.359286 , "
+"-2.040904 To find your location's lattitude and longitude, use <a target="
+"\"_blank\" href=\"http://www.doogal.co.uk/LatLong.php\">this website</a>"
+msgstr ""
+"La latitud y la Longitud deben estar separadas por comas. Ej. 53.359286, "
+"-2,040904 Para ubicar la latitud y la longitud de su ubicación, utilice <a "
+"target=\"_blank\" href=\"http://www.doogal.co.uk/LatLong.php\">este sitio</ "
+"a>"
+
+#: asteria/asteria_options.php:233
+msgid "Map Bubble Text "
+msgstr "Burbuja de texto del mapa"
+
+#: asteria/asteria_options.php:233
+msgid "display this text when you hover over map marker"
+msgstr "Mostrar este texto cuando se desplace sobre el indicador del mapa"
+
+#: asteria/asteria_options.php:238 asteria/asteria_options.php:263
+msgid "Call to Action"
+msgstr "Llamado a la acción"
+
+#: asteria/asteria_options.php:240
+msgid "Call to Action Text "
+msgstr "Texto de Llamado a la acción"
+
+#: asteria/asteria_options.php:240
+msgid ""
+"You call to action text here. you can change the color of the text from here "
+"too."
+msgstr ""
+"Escriba su texto de llamado a la acción aquí. También puede cambiar el color "
+"del texto desde aquí"
+
+#: asteria/asteria_options.php:241
+msgid "Button Text "
+msgstr "Texto del botón"
+
+#: asteria/asteria_options.php:242
+msgid "Button Link "
+msgstr "Enlace del botón"
+
+#: asteria/asteria_options.php:247
+msgid "Button Color "
+msgstr "Color del botón"
+
+#: asteria/asteria_options.php:249
+msgid "Button Text Color "
+msgstr "Color del texto del botón"
+
+#: asteria/asteria_options.php:256 asteria/asteria_options.php:263
+msgid "Frontpage Widgets Area"
+msgstr "Área de Widgets de la Página principal"
+
+#: asteria/asteria_options.php:258
+msgid ""
+"You can add widgets to your 'Frontpage Widgets Area' from Appearance> Widgets"
+msgstr ""
+"Puede agregar widgets a su 'Area de Widgets de la Página principal' desde "
+"Apariencia> Widget"
+
+#: asteria/asteria_options.php:263
+msgid "Frontpage Elements position"
+msgstr "Posición de los elementos de la página principal"
+
+#: asteria/asteria_options.php:263
+msgid "Sortable field description"
+msgstr "Descripción del campo clasificable"
+
+#: asteria/asteria_options.php:285
+msgid "Slider Setup"
+msgstr "Instalación de diapositiva"
+
+#: asteria/asteria_options.php:288
+msgid "Slider Type"
+msgstr "Tipo de diapositiva"
+
+#: asteria/asteria_options.php:291
+msgid "Pause Time Between Each Slide "
+msgstr "Tiempo de pausa entre cada diapositiva"
+
+#: asteria/asteria_options.php:294
+msgid "Slider Height "
+msgstr "Altura de la diapositiva"
+
+#: asteria/asteria_options.php:298
+msgid "Slide Font Style"
+msgstr "Estilo de fuente de la diapositiva"
+
+#: asteria/asteria_options.php:306 asteria/asteria_options.php:565
+msgid "Title "
+msgstr "Título"
+
+#: asteria/asteria_options.php:307
+msgid "Image"
+msgstr "Imagen"
+
+#: asteria/asteria_options.php:308
+msgid "Content "
+msgstr "Contenido"
+
+#: asteria/asteria_options.php:309
+msgid "Link "
+msgstr "Enlace"
+
+#: asteria/asteria_options.php:310
+msgid "Slide Text Layout"
+msgstr "Distribución del texto en la diapositiva"
+
+#: asteria/asteria_options.php:316
+msgid "Create Slides"
+msgstr "Crear diapositivas"
+
+#: asteria/asteria_options.php:316
+msgid "Repeater field description"
+msgstr "Descripción del campo repetidor"
+
+#: asteria/asteria_options.php:333
+msgid "To change the color settings, Use the "
+msgstr "Para cambiar los ajustes de color, utilice"
+
+#: asteria/asteria_options.php:335 asteria/functions.php:407
+msgid "Primary Element background Color"
+msgstr "Color de fondo del elemento primario"
+
+#: asteria/asteria_options.php:336 asteria/functions.php:413
+msgid "Secondary Element background Color"
+msgstr "Color de fondo del elemento secundario"
+
+#: asteria/asteria_options.php:337 asteria/functions.php:419
+msgid "Header Background Color"
+msgstr "Color de fondo de la cabecera"
+
+#: asteria/asteria_options.php:338
+msgid "Footer Widgets Background Color"
+msgstr "Color de fondo de los Widgets al pie de página"
+
+#: asteria/asteria_options.php:339
+msgid "Sidebar Widgets Background Color"
+msgstr "Color de fondo de los Widgets en la barra lateral"
+
+#: asteria/asteria_options.php:340
+msgid "Post icon Color"
+msgstr "Color del icono de publicación"
+
+#: asteria/asteria_options.php:342
+msgid "<h3 style='margin-top:60px;'>Text Colors</h3>"
+msgstr "<h3 style='margin-top:60px;'> Colores de texto </ h3>"
+
+#: asteria/asteria_options.php:343
+msgid "Sitewide Text Color"
+msgstr "Color de texto para todo el sitio"
+
+#: asteria/asteria_options.php:344
+msgid "Text Color on secondary elements"
+msgstr "Color de texto en elementos secundarios"
+
+#: asteria/asteria_options.php:345
+msgid "Menu Text Color"
+msgstr "Color de texto del menú"
+
+#: asteria/asteria_options.php:346
+msgid "Footer Widget Text Color"
+msgstr "Color de texto de los Widgets al pie de página"
+
+#: asteria/asteria_options.php:347
+msgid "Footer Widgets Title Color"
+msgstr "Color del título de los Widgets al pie de página"
+
+#: asteria/asteria_options.php:348
+msgid "Sidebar Text Color"
+msgstr "Color del texto en la barra lateral"
+
+#: asteria/asteria_options.php:349
+msgid "\"Leave a Reply\" Text Color"
+msgstr "Color del texto de \"Deje una respuesta\" "
+
+#: asteria/asteria_options.php:363
+msgid "Typograhy Settings"
+msgstr "Ajustes de tipografía"
+
+#: asteria/asteria_options.php:367
+msgid "Logo Style"
+msgstr "Estilo del logotipo"
+
+#: asteria/asteria_options.php:377
+msgid "Site Content Text Style"
+msgstr "Estilo del texto del contenido del sitio"
+
+#: asteria/asteria_options.php:386
+msgid "Post Titles, headings and Menu Font"
+msgstr "Títulos de publicaciones, cabeceras y fuente del menú"
+
+#: asteria/asteria_options.php:388
+msgid "Menu Font Size"
+msgstr "Tamaño de fuente del menú"
+
+#: asteria/asteria_options.php:392
+msgid "Post Title Font Size"
+msgstr "Tamaño de fuente del título de la publicación"
+
+#: asteria/asteria_options.php:394
+msgid "Post Title Font Style"
+msgstr "Estilo de fuente del título de la publicación"
+
+#: asteria/asteria_options.php:397
+msgid "Page Title Font Size"
+msgstr "Tamaño de fuente del título de la página"
+
+#: asteria/asteria_options.php:399
+msgid "Page Title Font Style"
+msgstr "Estilo de fuente del título de la página"
+
+#: asteria/asteria_options.php:424
+msgid "Social Buttons"
+msgstr "Botones de redes sociales"
+
+#: asteria/asteria_options.php:427
+msgid "Social Share Icons under Posts "
+msgstr "Íconos para compartir redes sociales debajo de las publicaciones"
+
+#: asteria/asteria_options.php:430
+msgid "Social Share Icons Color "
+msgstr "Color de los íconos para compartir redes sociales"
+
+#: asteria/asteria_options.php:434
+msgid "Facebook URL "
+msgstr "URL de Facebook"
+
+#: asteria/asteria_options.php:436
+msgid "Twitter URL "
+msgstr "URL de Twitter"
+
+#: asteria/asteria_options.php:438
+msgid "Google Plus URL "
+msgstr "URL de Google Plus "
+
+#: asteria/asteria_options.php:440
+msgid "Youtube URL "
+msgstr "URL de Youtube "
+
+#: asteria/asteria_options.php:442
+msgid "Flickr URL "
+msgstr "URL de Flickr "
+
+#: asteria/asteria_options.php:444
+msgid "Linkedin URL "
+msgstr "URL de Linkedin "
+
+#: asteria/asteria_options.php:446
+msgid "Pinterest URL "
+msgstr "URL de Pinterest "
+
+#: asteria/asteria_options.php:448
+msgid "Tumblr URL "
+msgstr "URL de Tumblr "
+
+#: asteria/asteria_options.php:450
+msgid "Instagram URL "
+msgstr "URL de Instagram "
+
+#: asteria/asteria_options.php:452
+msgid "RSS URL "
+msgstr "URL de RSS "
+
+#: asteria/asteria_options.php:467
+msgid "Miscellaneous Settings"
+msgstr "Ajustes varios"
+
+#: asteria/asteria_options.php:470
+msgid "Show Post Info - Date, Author Name, Categories etc.."
+msgstr ""
+"Mostrar información de la publicación - fecha, nombre del autor, categorías, "
+"etc."
+
+#: asteria/asteria_options.php:472
+msgid "Show Related Posts"
+msgstr "Mostrar publicaciones relacionadas"
+
+#: asteria/asteria_options.php:474
+msgid "Show Next and Previous Posts"
+msgstr "Mostrar publicación siguiente y publicación previa"
+
+#: asteria/asteria_options.php:476
+msgid "Show Comments"
+msgstr "Mostrar comentarios"
+
+#: asteria/asteria_options.php:478
+msgid "Lightbox Feature"
+msgstr "Característica Lightbox"
+
+#: asteria/asteria_options.php:481
+msgid "Display Blog Posts from a selected Category"
+msgstr "Mostrar publicaciones de blog de una categoría seleccionada"
+
+#: asteria/asteria_options.php:481
+msgid ""
+"If you have setup a Blog page with Blog Page Template, choose a category to "
+"get the posts from"
+msgstr ""
+"Si ha configurado una página de Blog con un Templete para Página de Blog, "
+"elija una categoría de la cual obtener las publicaciones"
+
+#: asteria/asteria_options.php:486
+msgid "Contact Page email address "
+msgstr "Dirección de e-mail de la página de contacto"
+
+#: asteria/asteria_options.php:487
+msgid ""
+"If you have setup a contact page with Contact Page Template, set where you "
+"want your emails to be sent. Default is set to your Wordpress admin email "
+"address."
+msgstr ""
+"Se ha configurado una página de contacto con el templete para página de "
+"contacto, indique dónde quiere que se envíen los mensajes. La opción "
+"predeterminada es hacia su dirección de e-mail del administrador de WordPress"
+
+#: asteria/asteria_options.php:490
+msgid "must be a valid email address"
+msgstr "debe ser una dirección de e-mail válida"
+
+#: asteria/asteria_options.php:496
+msgid "Google Analytics "
+msgstr "Google Analytics"
+
+#: asteria/asteria_options.php:496
+msgid ""
+"Paste your google analytics code here and it will be added to all the pages "
+"of your site"
+msgstr ""
+"Pegue su código de Google Analytics aquí y éste será agregado a todas las "
+"páginas de su sitio"
+
+#: asteria/asteria_options.php:512
+msgid ""
+"Checking each of these below option will only hide these elements from the "
+"Mobile layout."
+msgstr ""
+"Marcar cada una de estas opciones a continuación únicamente ocultará estos "
+"elementos del diseño para móvil"
+
+#: asteria/asteria_options.php:515
+msgid "Hide Slider"
+msgstr "Ocultar diapositiva"
+
+#: asteria/asteria_options.php:516
+msgid "Hide Front Page Blocks"
+msgstr "Ocultar bloques de lapágina principal"
+
+#: asteria/asteria_options.php:517
+msgid "Hide Front Page Welcome Text"
+msgstr "Ocultar texto de bienvenida de la página principal"
+
+#: asteria/asteria_options.php:518
+msgid "Hide Front Page Tabs"
+msgstr "Ocultar pestañas de la página principal"
+
+#: asteria/asteria_options.php:519
+msgid "Hide Front Page Posts"
+msgstr "Ocultar publicaciones de la página principal"
+
+#: asteria/asteria_options.php:520
+msgid "Hide Front Page Map"
+msgstr "Ocultar mapa de la página principal"
+
+#: asteria/asteria_options.php:521
+msgid "Hide Front Page Widgets"
+msgstr "Ocultar Widgets de la página principal"
+
+#: asteria/asteria_options.php:522
+msgid "Hide Footer Widgets"
+msgstr "Ocultar Widgets del pie de página"
+
+#: asteria/asteria_options.php:523
+msgid "Hide Right Sidebar"
+msgstr "Ocultar barra lateral derecha"
+
+#: asteria/asteria_options.php:540
+msgid "Write your custom css here "
+msgstr "Escriba su CSS personalizado aquí"
+
+#: asteria/asteria_options.php:557
+msgid "Maintanance Mode"
+msgstr "Modo de mantenimiento"
+
+#: asteria/asteria_options.php:559
+msgid "BackTime"
+msgstr "Backtime"
+
+#: asteria/asteria_options.php:561
+msgid "Date "
+msgstr "Fecha"
+
+#: asteria/asteria_options.php:563
+msgid "Time "
+msgstr "Hora"
+
+#: asteria/asteria_options.php:568
+msgid "Message "
+msgstr "Mensaje"
+
+#: asteria/asteria_options.php:568
+msgid "wysiwyg field description"
+msgstr "Descripción del campo tipo wysiwyg"
+
+#: asteria/asteria_options.php:582
+msgid "Import Export"
+msgstr "Exportar Importar"
+
+#: asteria/asteria_options.php:642
+msgid "My help tab title"
+msgstr "Título de Mi etiqueta de ayuda"
+
+#: asteria/asteria_options.php:643
+msgid "This is my Help Tab content"
+msgstr "Éste es el contenido de Mi etiqueta de ayuda"
+
+#: asteria/asteria_options.php:647
+msgid "My 2nd help tab title"
+msgstr "Título de Mi 2da etiqueta de ayuda"
+
+#: asteria/asteria_options.php:653
+msgid "This is my 2nd Help Tab content from a callback function"
+msgstr ""
+"Éste es el contenido de Mi 2da etiqueta de ayuda de una función callback"
+
+#: asteria/author.php:26
+msgid "Posts by "
+msgstr "Publicaciones de"
+
+#: asteria/author.php:68 asteria/layout4.php:54 asteria/layout5.php:20
+#: asteria/page-blog.php:75 asteria/single.php:32
+msgid "0 Comment"
+msgstr "0 comentarios"
+
+#: asteria/author.php:68 asteria/layout4.php:54 asteria/layout5.php:20
+#: asteria/page-blog.php:75 asteria/single.php:32
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: asteria/author.php:68 asteria/layout4.php:54 asteria/layout5.php:20
+#: asteria/page-blog.php:75 asteria/single.php:32
+msgid "% Comments"
+msgstr "% Comentarios"
+
+#: asteria/author.php:68 asteria/layout4.php:54 asteria/layout5.php:20
+#: asteria/page-blog.php:75 asteria/single.php:32
+msgid "Off"
+msgstr "Deshabilitado"
+
+#: asteria/comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Esta publicación está protegida por contraseña. Ingrese la contraseña para "
+"ver las publicaciones."
+
+#: asteria/comments.php:15
+msgid "No Responses"
+msgstr "No hay respuestas"
+
+#: asteria/comments.php:15
+msgid "One Response"
+msgstr "Una respuesta"
+
+#: asteria/comments.php:15
+msgid "% Responses"
+msgstr "% Respuestas"
+
+#: asteria/comments.php:29
+msgid "Trackbacks &amp; Pings"
+msgstr "Trackbacks & Pings"
+
+#: asteria/comments.php:51
+msgid "Comments are closed."
+msgstr "Los comentarios están deshabilitados."
+
+#: asteria/comments.php:62 asteria/functions.php:269
+msgid "Leave a Reply"
+msgstr "Escriba una respuesta"
+
+#: asteria/comments.php:66 asteria/functions.php:273
+#: asteria/lib/includes/widgets.php:1914
+msgid "Name"
+msgstr "Nombre"
+
+#: asteria/comments.php:68 asteria/functions.php:275
+msgid "Email"
+msgstr "E-mail"
+
+#: asteria/comments.php:70 asteria/functions.php:277
+msgid "Website"
+msgstr "Sitio web"
+
+#: asteria/footer.php:33
+msgid "Theme by"
+msgstr "Tema de"
+
+#: asteria/functions.php:83 asteria/functions.php:85
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: asteria/functions.php:93
+msgid "Home Widgets"
+msgstr "Widgets de la página de inicio"
+
+#: asteria/functions.php:95
+msgid "Widget Area for the homepage"
+msgstr "Área de Widgets para la página de inicio"
+
+#: asteria/functions.php:103
+msgid "Footer Widgets"
+msgstr "Widgets de pie de página"
+
+#: asteria/functions.php:105
+msgid "Widget Area for the Footer"
+msgstr "Área de Widgets para el pie de página"
+
+#: asteria/functions.php:164 asteria/functions.php:173
+msgid "+ Read More"
+msgstr "+ Más información"
+
+#: asteria/functions.php:198
+msgid "Search...."
+msgstr "Buscar...."
+
+#: asteria/functions.php:219
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: asteria/functions.php:219
+msgid "says:"
+msgstr "dice:"
+
+#: asteria/functions.php:222 asteria/functions.php:247
+msgid "Your comment is awaiting moderation."
+msgstr "Su comentario está esperando la acción de un moderador."
+
+#: asteria/functions.php:231 asteria/functions.php:256
+#: asteria/admin/admin-page-class.php:1632
+msgid "Edit"
+msgstr "Modificar"
+
+#: asteria/functions.php:252
+#, php-format
+msgid "<cite class=\"citeping\">%s</cite> <span class=\"says\">:</span>"
+msgstr "<cite class=\"citeping\">%s</cite> <span class=\"says\">:</span>"
+
+#: asteria/functions.php:304
+msgid "Header Navigation"
+msgstr "Navegación de la cabecera"
+
+#: asteria/functions.php:305
+msgid "Footer Navigation"
+msgstr "Navegación del pie de página"
+
+#: asteria/functions.php:425
+msgid "Footer Background Color"
+msgstr "Color de fondo del pie de página"
+
+#: asteria/functions.php:431
+msgid "Sidebar Background Color"
+msgstr "Color de fondo de la barra lateral"
+
+#: asteria/functions.php:437
+msgid "Single Post icon Color"
+msgstr "Color del icono de publicación individual"
+
+#: asteria/head1.php:36 asteria/head2.php:6 asteria/head3.php:47
+#: asteria/head4.php:36 asteria/head5.php:36
+msgid "Menu"
+msgstr "Menú"
+
+#: asteria/layout5.php:10 asteria/page-contact.php:85
+#: asteria/page-fullwidth.php:25 asteria/page-leftsidebar.php:26
+#: asteria/page.php:20 asteria/single.php:18
+msgid "Edit This"
+msgstr "Editar esto"
+
+#: asteria/layout5.php:27 asteria/page-contact.php:107
+#: asteria/page-fullwidth.php:31 asteria/page-leftsidebar.php:32
+#: asteria/page.php:27 asteria/single.php:42
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: asteria/page-contact.php:94
+msgid "Name*"
+msgstr "Nombre*"
+
+#: asteria/page-contact.php:95
+msgid "Email*"
+msgstr "E-mail*"
+
+#: asteria/page-contact.php:96
+msgid "Your Message"
+msgstr "Su mensaje"
+
+#: asteria/page-contact.php:97
+msgid "Human Verification"
+msgstr "Verificación humana"
+
+#: asteria/related.php:2
+msgid "Related Posts"
+msgstr "Publicaciónes relacionadas"
+
+#: asteria/related.php:91
+msgid "Read More"
+msgstr "Más información"
+
+#: asteria/search.php:5
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Buscar resultados por: %s"
+
+#: asteria/search.php:6
+msgid "Total posts found for"
+msgstr "Publicaciones totales encontrados para"
+
+#: asteria/search.php:6
+msgid "<span class=\"search-terms\">\""
+msgstr "<span class=\"search-terms\">\""
+
+#: asteria/search.php:6
+msgid "\"</span>"
+msgstr "\"</span>"
+
+#: asteria/search.php:6
+msgid " &mdash; "
+msgstr " -"
+
+#: asteria/share_this.php:4
+msgid "this post on Facebook"
+msgstr "Esta publicación en Facebook"
+
+#: asteria/share_this.php:7 asteria/share_this.php:13
+msgid "this post"
+msgstr "Esta publicación"
+
+#: asteria/share_this.php:10
+msgid "Submit to"
+msgstr "Enviar a"
+
+#: asteria/share_this.php:16 asteria/share_this.php:20
+msgid "This"
+msgstr "Esto"
+
+#: asteria/admin/admin-page-class.php:404
+msgid "Allowed Files"
+msgstr "Archivos permitidos"
+
+#: asteria/admin/admin-page-class.php:621
+msgid "Block 1 Settings"
+msgstr "Configuración del bloque 1"
+
+#: asteria/admin/admin-page-class.php:622
+msgid "Block 2 Settings"
+msgstr "Configuración del bloque 2"
+
+#: asteria/admin/admin-page-class.php:623
+msgid "Block 3 Settings"
+msgstr "Configuración del bloque 3"
+
+#: asteria/admin/admin-page-class.php:624
+msgid "Block 4 Settings"
+msgstr "Configuración del bloque 4"
+
+#: asteria/admin/admin-page-class.php:667
+msgid "Live Customizer"
+msgstr "Personalizador Live"
+
+#: asteria/admin/admin-page-class.php:829
+#: asteria/admin/admin-page-class.php:831
+msgid "Insert into Post"
+msgstr "Insertar en la publicación"
+
+#: asteria/admin/admin-page-class.php:829
+msgid "Use this File"
+msgstr "Utilizar este archivo"
+
+#: asteria/admin/admin-page-class.php:831
+msgid "Use this Image"
+msgstr "Utilizar esta imagen"
+
+#: asteria/admin/admin-page-class.php:863
+msgid "Upgrade to Pro"
+msgstr "Actualizar a Pro"
+
+#: asteria/admin/admin-page-class.php:864
+#: asteria/admin/admin-page-class.php:962
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: asteria/admin/admin-page-class.php:877
+msgid "Settings saved."
+msgstr "Ajustes guardados"
+
+#: asteria/admin/admin-page-class.php:1345
+msgid "Delete this image"
+msgstr "Eliminar esta imagen"
+
+#: asteria/admin/admin-page-class.php:1345
+#: asteria/admin/admin-page-class.php:2012
+msgid "Delete"
+msgstr "Eliminar"
+
+#: asteria/admin/admin-page-class.php:1440
+msgid "Cannot delete file. Something's wrong."
+msgstr "No se puede eliminar el archivo. Algo anda mal."
+
+#: asteria/admin/admin-page-class.php:1633
+#: asteria/admin/admin-page-class.php:1665
+#: asteria/meta-box-class/my-meta-box-class.php:420
+#: asteria/meta-box-class/my-meta-box-class.php:459
+msgid "Remove"
+msgstr "Quitar"
+
+#: asteria/admin/admin-page-class.php:1639
+msgid "Add New"
+msgstr "Agregar nuevo"
+
+#: asteria/admin/admin-page-class.php:1639
+msgid "+ Add New"
+msgstr "+ Agregar nuevo"
+
+#: asteria/admin/admin-page-class.php:1803
+msgid "Select Files"
+msgstr "Elegir archivos"
+
+#: asteria/admin/admin-page-class.php:2008
+msgid "Uploaded files"
+msgstr "Archivos cargados"
+
+#: asteria/admin/admin-page-class.php:2019
+msgid "Upload new files"
+msgstr "Cargar nuevos archivos"
+
+#: asteria/admin/admin-page-class.php:2025
+msgid "Add more files"
+msgstr "Agregar más archivos"
+
+#: asteria/admin/admin-page-class.php:2045
+#: asteria/admin/admin-page-class.php:2078
+msgid "Delete Image"
+msgstr "Eliminar imagen"
+
+#: asteria/admin/admin-page-class.php:2050
+#: asteria/admin/admin-page-class.php:2083
+#: asteria/lib/includes/widgets.php:1774 asteria/lib/includes/widgets.php:1909
+msgid "Upload Image"
+msgstr "Cargar imagen"
+
+#: asteria/admin/admin-page-class.php:2160
+#: asteria/admin/admin-page-class.php:2186
+#: asteria/meta-box-class/my-meta-box-class.php:786
+msgid "Select a color"
+msgstr "Elegir un color"
+
+#: asteria/admin/admin-page-class.php:3419
+msgid "Export"
+msgstr "Exportar"
+
+#: asteria/admin/admin-page-class.php:3420
+msgid ""
+"To export saved settings click the Export button bellow and you will get the "
+"export Code in the box bellow, which you can later use to import."
+msgstr ""
+"Para exportar los ajustes guardados, haga clic en el botón Exportar a "
+"continuación y obtendrá el Código de exportación en la casilla a "
+"continuación, la cual puede utilizar posteriormente para importar."
+
+#: asteria/admin/admin-page-class.php:3422
+msgid "Export Code"
+msgstr "Código de exportación"
+
+#: asteria/admin/admin-page-class.php:3424
+msgid "Get Export"
+msgstr "Obtener exportación"
+
+#: asteria/admin/admin-page-class.php:3429
+#: asteria/admin/admin-page-class.php:3434
+msgid "Import"
+msgstr "Importar"
+
+#: asteria/admin/admin-page-class.php:3430
+msgid ""
+"To Import saved settings paste the Export output in to the Import Code box "
+"bellow and click Import."
+msgstr ""
+"Para importar los ajustes guardados pegue el resultado de la Exportación en "
+"la casilla del Código de Importación a continuación y haga clic en Importar."
+
+#: asteria/admin/admin-page-class.php:3432
+msgid "Import Code"
+msgstr "Código de importación"
+
+#: asteria/admin/admin-page-class.php:3459
+msgid "error in ajax request! (1)"
+msgstr "¡Error en la petición ajax! (1)"
+
+#: asteria/admin/admin-page-class.php:3469
+msgid "error in ajax request! (2)"
+msgstr "¡Error en la petición ajax! (2)"
+
+#: asteria/admin/admin-page-class.php:3490
+msgid "error in ajax request! (3)"
+msgstr "¡Error en la petición ajax! (3)"
+
+#: asteria/admin/admin-page-class.php:3502
+msgid "Setting imported, make sure you "
+msgstr "Ajustes importados, asegúrese de"
+
+#: asteria/admin/admin-page-class.php:3502
+msgid "Refresh this page"
+msgstr "Actualizar esta página"
+
+#: asteria/admin/admin-page-class.php:3504
+msgid "Could not import settings! (4)"
+msgstr "¡No fue posible importar los ajustes! (4)"
+
+#: asteria/admin/admin-page-class.php:3525
+msgid "You do not have sufficient permissions to edit templates for this site."
+msgstr ""
+"No cuenta con suficientes permisos para modificar los templetes para este "
+"sitio."
+
+#: asteria/admin/admin-page-class.php:3528
+msgid "Error Downloading file."
+msgstr "Error de descarga del archivo."
+
+#: asteria/admin/admin-page-class.php:3550
+#: asteria/admin/admin-page-class.php:3553
+msgid "Download Export"
+msgstr "Descargar exportación"
+
+#: asteria/admin/admin-page-class.php:3620
+msgid "Not Valid "
+msgstr "No valido"
+
+#: asteria/admin/admin-page-class.php:3638
+msgid "Errors in saving changes"
+msgstr "Errores guardando los cambios"
+
+#: asteria/admin/admin-page-class.php:3663
+msgid "Unkown Error"
+msgstr "Error desconocido"
+
+#: asteria/lib/includes/widgets.php:26
+msgid ""
+"A asteria widget that allows the display and configuration of of a single "
+"125x125 Banner."
+msgstr ""
+"Un widget Asteria que permite la visualización y configuración de un Banner "
+"individual de 125x125."
+
+#: asteria/lib/includes/widgets.php:32
+msgid "Custom 125x125 Ad*"
+msgstr "Anunció 125x125 personalizado *"
+
+#: asteria/lib/includes/widgets.php:123 asteria/lib/includes/widgets.php:265
+#: asteria/lib/includes/widgets.php:393 asteria/lib/includes/widgets.php:559
+#: asteria/lib/includes/widgets.php:732 asteria/lib/includes/widgets.php:904
+#: asteria/lib/includes/widgets.php:1078 asteria/lib/includes/widgets.php:1218
+#: asteria/lib/includes/widgets.php:1368 asteria/lib/includes/widgets.php:1503
+#: asteria/lib/includes/widgets.php:1635 asteria/lib/includes/widgets.php:2168
+msgid "Title:"
+msgstr "Título:"
+
+#: asteria/lib/includes/widgets.php:126
+msgid "1st Ad block"
+msgstr "Bloque del 1er anuncio"
+
+#: asteria/lib/includes/widgets.php:129 asteria/lib/includes/widgets.php:143
+#: asteria/lib/includes/widgets.php:271 asteria/lib/includes/widgets.php:399
+msgid "Ad image url:"
+msgstr "URL de la imagen del anuncio:"
+
+#: asteria/lib/includes/widgets.php:135 asteria/lib/includes/widgets.php:149
+#: asteria/lib/includes/widgets.php:277 asteria/lib/includes/widgets.php:405
+msgid "Ad link url:"
+msgstr "URL del enlace del anuncio:"
+
+#: asteria/lib/includes/widgets.php:140
+msgid "2nd Ad block"
+msgstr "Bloque del 2do anuncio"
+
+#: asteria/lib/includes/widgets.php:182
+msgid ""
+"A asteria widget that allows the display and configuration of of a single "
+"250x250 Banner."
+msgstr ""
+"Un widget Asteria que permite la visualización y configuración de un Banner "
+"individual de 250x250."
+
+#: asteria/lib/includes/widgets.php:188
+msgid "Custom 250x250 Ad*"
+msgstr "Anunció 250x250 personalizado *"
+
+#: asteria/lib/includes/widgets.php:310
+msgid ""
+"A asteria widget that allows the display and configuration of of a single "
+"160x600 Banner."
+msgstr ""
+"Un widget Asteria que permite la visualización y configuración de un Banner "
+"individual de 160x160."
+
+#: asteria/lib/includes/widgets.php:316
+msgid "Custom 160x600 Ad*"
+msgstr "Anunció 160x600 personalizado *"
+
+#: asteria/lib/includes/widgets.php:438
+msgid ""
+"An asteria widget that displays the most popular posts of the site, Based on "
+"the comments count "
+msgstr ""
+"Un widget Asteria que permite la visualización de las publicaciones más "
+"populares del sitio, con base en el número de comentarios"
+
+#: asteria/lib/includes/widgets.php:444
+msgid "Popular Posts Widget*"
+msgstr "Widget de publicaciones populares*"
+
+#: asteria/lib/includes/widgets.php:566 asteria/lib/includes/widgets.php:738
+#: asteria/lib/includes/widgets.php:910 asteria/lib/includes/widgets.php:1091
+msgid "Number of Posts:"
+msgstr "Número de publicaciones:"
+
+#: asteria/lib/includes/widgets.php:571 asteria/lib/includes/widgets.php:743
+#: asteria/lib/includes/widgets.php:915 asteria/lib/includes/widgets.php:1096
+msgid "Layout Type:"
+msgstr "Tipo de diseño:"
+
+#: asteria/lib/includes/widgets.php:612
+msgid "A asteria widget that displays the random posts of the site"
+msgstr "Un widget Asteria que muestra publicaciones aleatorias en el sitio"
+
+#: asteria/lib/includes/widgets.php:618
+msgid "Random Posts Widget*"
+msgstr "Widget de publicaciones aleatorias*"
+
+#: asteria/lib/includes/widgets.php:784
+msgid "An asteria widget that displays the recent posts of your site"
+msgstr "Un widget Asteria que muestra las publicaciones recientes en el sitio"
+
+#: asteria/lib/includes/widgets.php:790
+msgid "Recent Posts Widget*"
+msgstr "Widget de publicaciones recientes*"
+
+#: asteria/lib/includes/widgets.php:956
+msgid ""
+"A asteria widget that displays the featured posts from your selected category"
+msgstr ""
+"Un widget Asteria que muestra las publicaciones destacadas de su categoría "
+"seleccionada"
+
+#: asteria/lib/includes/widgets.php:962
+msgid "Featured Posts Widget*"
+msgstr "Widget de publicaciones destacadas*"
+
+#: asteria/lib/includes/widgets.php:1084
+msgid "Category:"
+msgstr "Categoría:"
+
+#: asteria/lib/includes/widgets.php:1134
+msgid ""
+"A asteria widget that displays Flickr image stream from your Flickr account"
+msgstr "Un widget Asteria que muestra las imágenes Flickr de su cuenta Flickr"
+
+#: asteria/lib/includes/widgets.php:1138
+msgid "Flickr Photostream Widget*"
+msgstr "Widget de Galería de Flickr*"
+
+#: asteria/lib/includes/widgets.php:1224
+msgid "Flickr ID:"
+msgstr "ID de Flickr:"
+
+#: asteria/lib/includes/widgets.php:1230
+msgid "Number of Photos:"
+msgstr "Número de fotos:"
+
+#: asteria/lib/includes/widgets.php:1240
+msgid "Type (user or group):"
+msgstr "Tipo (usuario o grupo):"
+
+#: asteria/lib/includes/widgets.php:1249
+msgid "Display (random or latest):"
+msgstr "Mostrar (aleatorio o más reciente):"
+
+#: asteria/lib/includes/widgets.php:1286
+msgid "An Asteria widget that displays Facebook Likebox of your Facebook Page"
+msgstr ""
+"Un widget Asteria que muestra el Likebox de Facebook de su Página de Facebook"
+
+#: asteria/lib/includes/widgets.php:1292
+msgid "Facebook Likebox Widget*"
+msgstr "Widget del Likebox de Facebook*"
+
+#: asteria/lib/includes/widgets.php:1374
+msgid "Facebook Page url:"
+msgstr "URL de la página de Facebook:"
+
+#: asteria/lib/includes/widgets.php:1380
+msgid "Height of the like Box"
+msgstr "Altura de la casilla de Me gusta"
+
+#: asteria/lib/includes/widgets.php:1417
+msgid ""
+"An Asteria widget that displays Twitter Followers from your Twitter profile"
+msgstr ""
+"Un widget Asteria que muestra los seguidores de Twitter de su perfil de "
+"Twitter"
+
+#: asteria/lib/includes/widgets.php:1423
+msgid "Twitter Followers Widget*"
+msgstr "Widget de los seguidores de Twitter*"
+
+#: asteria/lib/includes/widgets.php:1509
+msgid "Twiiter Account id:"
+msgstr "ID de la cuenta de Twitter:"
+
+#: asteria/lib/includes/widgets.php:1547
+msgid "An Asteria widget that displays your Google Plus Followers"
+msgstr "Un widget Asteria que muestra sus seguidores de Google plus"
+
+#: asteria/lib/includes/widgets.php:1553
+msgid "Google Plus Followers Widget*"
+msgstr "Widget de seguidores de Google plus*"
+
+#: asteria/lib/includes/widgets.php:1641
+msgid "Google Plus Url:"
+msgstr "URL de Google Plus:"
+
+#: asteria/lib/includes/widgets.php:1687
+msgid "An Asteria Image to display a single image"
+msgstr "Una imagen Asteria para mostrar como imagen individual"
+
+#: asteria/lib/includes/widgets.php:1693
+msgid "Image Widget*"
+msgstr "Widget de imagen*"
+
+#: asteria/lib/includes/widgets.php:1768 asteria/lib/includes/widgets.php:1903
+#: asteria/lib/includes/widgets.php:2079
+msgid "Title"
+msgstr "Título"
+
+#: asteria/lib/includes/widgets.php:1779
+msgid "Image Link"
+msgstr "Enlace de la imagen"
+
+#: asteria/lib/includes/widgets.php:1817
+msgid "An Asteria Biography widget to display your biography"
+msgstr "Un widget de biografía Asteria que muestra su biografía"
+
+#: asteria/lib/includes/widgets.php:1823
+msgid "Biography Widget*"
+msgstr "Widget de biografía*"
+
+#: asteria/lib/includes/widgets.php:1919
+msgid "Occupation"
+msgstr "Ocupación"
+
+#: asteria/lib/includes/widgets.php:1924 asteria/lib/includes/widgets.php:2089
+msgid "Description"
+msgstr "Descripción"
+
+#: asteria/lib/includes/widgets.php:1965
+msgid "An Asteria widget to display a Countdown"
+msgstr "Un widget Asteria que muestra una cuenta regresiva"
+
+#: asteria/lib/includes/widgets.php:1971
+msgid "Countdown Widget*"
+msgstr "Widget de cuenta regresiva*"
+
+#: asteria/lib/includes/widgets.php:2085
+msgid "Set Countdown Date"
+msgstr "Establecer la fecha de la cuenta regresiva"
+
+#: asteria/lib/includes/widgets.php:2094
+msgid "Set Countdown Time"
+msgstr "Establecer la hora de la cuenta regresiva"
+
+#: asteria/lib/includes/widgets.php:2172
+msgid "Username:"
+msgstr "Nombre de usuario:"
+
+#: asteria/lib/includes/widgets.php:2177
+msgid "Number of Pins"
+msgstr "Número de Pins"
+
+#: asteria/lib/includes/widgets.php:2182
+msgid "Open links in a new window?"
+msgstr "¿Abrir enlaces en una nueva ventana?"
+
+#: asteria/lib/includes/widgets.php:2236
+msgid "More Pins"
+msgstr "Más Pins"
+
+#: asteria/meta-box-class/my-meta-box-class.php:432
+msgid "Add"
+msgstr "Agregar"
+
+#: asteria/meta-box-class/my-meta-box-class.php:1819
+#: asteria/meta-box-class/my-meta-box-class.php:1827
+msgid "Sorry, you cannot upload this file type for this field."
+msgstr "Lo sentimos, no puede cargar este tipo de archivo para este campo."

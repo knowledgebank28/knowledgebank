@@ -1,0 +1,1386 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Asteria\n"
+"POT-Creation-Date: 2013-10-02 03:06+0600\n"
+"PO-Revision-Date: 2013-10-15 15:15+0600\n"
+"Last-Translator: \n"
+"Language-Team: Towfiq I.\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: asteria\n"
+
+#: asteria/404.php:4
+msgid "Page Not Found"
+msgstr "页面不存在"
+
+#: asteria/404.php:13
+msgid ""
+"Server cannot find the file you requested. File has either been moved or "
+"deleted, or you entered the wrong URL or document name. Look at the URL. If "
+"a word looks misspelled, then correct it and try it again. If that doesnt "
+"work You can try our search option to find what you are looking for."
+msgstr ""
+"服务器无法找到您请求的文件。文件已被移动或删除，或者您输入了错误的网址或文件"
+"名。请检查网址。如果是拼写错误，请更正并重试。否则您可以试试我们的搜索选项来"
+"找到您想要的内容。"
+
+#: asteria/asteria_options.php:14
+msgid "Asteria Options"
+msgstr "阿斯特瑞亚选项"
+
+#: asteria/asteria_options.php:35
+msgid "Basic"
+msgstr "基本内容"
+
+#: asteria/asteria_options.php:36
+msgid "Front Page"
+msgstr "标题版"
+
+#: asteria/asteria_options.php:37
+msgid "Slider"
+msgstr "滑块"
+
+#: asteria/asteria_options.php:38 asteria/asteria_options.php:332
+msgid "Style"
+msgstr "文本风格"
+
+#: asteria/asteria_options.php:39
+msgid "TypoGraphy"
+msgstr "排印"
+
+#: asteria/asteria_options.php:40
+msgid "Social"
+msgstr "社交媒体"
+
+#: asteria/asteria_options.php:41
+msgid "Miscellaneous"
+msgstr "其他"
+
+#: asteria/asteria_options.php:42 asteria/asteria_options.php:511
+msgid "Mobile Layout"
+msgstr "移动布局"
+
+#: asteria/asteria_options.php:43 asteria/asteria_options.php:537
+msgid "Custom CSS"
+msgstr "定制CSS"
+
+#: asteria/asteria_options.php:44 asteria/asteria_options.php:554
+msgid "Maintanace Mode"
+msgstr "维护模式"
+
+#: asteria/asteria_options.php:45
+msgid "Import/Export"
+msgstr "导入/导出 "
+
+#: asteria/asteria_options.php:46 asteria/asteria_options.php:601
+msgid "About The Theme"
+msgstr "关于主题"
+
+#: asteria/asteria_options.php:47 asteria/asteria_options.php:615
+msgid "Upgrade to PRO"
+msgstr "升级到专业版"
+
+#: asteria/asteria_options.php:48 asteria/asteria_options.php:629
+msgid "Documentation"
+msgstr "参考文献"
+
+#: asteria/asteria_options.php:66
+msgid "Basic Settings"
+msgstr "基本设置"
+
+#: asteria/asteria_options.php:69
+msgid "Logo/Header Image "
+msgstr "标识/页眉 图片"
+
+#: asteria/asteria_options.php:69
+msgid "Click the \"Upload\" button to upload your logo Image."
+msgstr "点击”上传“按钮上传您的标识图片"
+
+#: asteria/asteria_options.php:72
+msgid "Site Width"
+msgstr "网站宽度"
+
+#: asteria/asteria_options.php:72
+msgid "No matter which layout you select the site will be responsive"
+msgstr "无论您选择哪种布局，网站都会响应"
+
+#: asteria/asteria_options.php:75
+msgid "Header Type"
+msgstr "页眉类型"
+
+#: asteria/asteria_options.php:75
+msgid "Change how the header looks"
+msgstr "更改页眉外观"
+
+#: asteria/asteria_options.php:79
+msgid "Category, Archive Page posts layout"
+msgstr "分类、存档页面帖子布局"
+
+#: asteria/asteria_options.php:79
+msgid "Select how you want to display posts on category and archive pages"
+msgstr "选择您想要显示分类和存档页面帖子的方式"
+
+#: asteria/asteria_options.php:84
+msgid "Page Header Type"
+msgstr "页面页眉类型"
+
+#: asteria/asteria_options.php:84
+msgid "Change how the Page Title Looks"
+msgstr "更改登录页面外观"
+
+#: asteria/asteria_options.php:87
+msgid "Ajax Pagination"
+msgstr "Ajax 分页"
+
+#: asteria/asteria_options.php:87 asteria/asteria_options.php:90
+msgid "Ajax pagination(Go to next page without reloadong the page) "
+msgstr "Ajax 分页（无需重新加载直接进入下一页）"
+
+#: asteria/asteria_options.php:90
+msgid "Rounded Corners"
+msgstr "圆角"
+
+#: asteria/asteria_options.php:93
+msgid "To Top Button"
+msgstr "返回顶部按钮"
+
+#: asteria/asteria_options.php:93
+msgid ""
+"Turn On/Off \"To Top Button\"(The button that appears on bottom right when "
+"you scroll down to pages.) "
+msgstr "打开/关闭”返回顶部按钮”（当您向下滚动页面时，该按钮出现在右下方）"
+
+#: asteria/asteria_options.php:96
+msgid "Footer Copyright Text "
+msgstr "页脚版权文本"
+
+#: asteria/asteria_options.php:96
+msgid "Your copyright text here"
+msgstr "您的版权文本在这里"
+
+#: asteria/asteria_options.php:121
+msgid "Front Page Options"
+msgstr "头版选项"
+
+#: asteria/asteria_options.php:123
+msgid "<span class=\"ast_smalltit\">Frontpage Elements Settings</span>"
+msgstr "<span class=\"ast_smalltit\">头版元素设置</ span>"
+
+#: asteria/asteria_options.php:127 asteria/asteria_options.php:263
+msgid "Blocks"
+msgstr "版块"
+
+#: asteria/asteria_options.php:130
+msgid "Hide Block 1"
+msgstr "隐藏版块 1"
+
+#: asteria/asteria_options.php:132
+msgid "Block 1 Title "
+msgstr "版块 1 标题"
+
+#: asteria/asteria_options.php:134
+msgid "Block 1 Icon"
+msgstr "版块 1 图标"
+
+#: asteria/asteria_options.php:136
+msgid "Block 1 Content"
+msgstr "版块 1 内容"
+
+#: asteria/asteria_options.php:139
+msgid "Hide Block 2"
+msgstr "隐藏版块 2"
+
+#: asteria/asteria_options.php:141
+msgid "Block 2 Title "
+msgstr "版块 2 标题"
+
+#: asteria/asteria_options.php:143
+msgid "Block 2 Icon"
+msgstr "版块 2 图标"
+
+#: asteria/asteria_options.php:145
+msgid "Block 2 Content"
+msgstr "版块 2 内容"
+
+#: asteria/asteria_options.php:149
+msgid "Hide Block 3"
+msgstr "隐藏版块 3"
+
+#: asteria/asteria_options.php:151
+msgid "Block 3 Title "
+msgstr "版块 3 标题"
+
+#: asteria/asteria_options.php:153
+msgid "Block 3 Icon"
+msgstr "版块 3 图标"
+
+#: asteria/asteria_options.php:155
+msgid "Block 3 Content"
+msgstr "版块 3 内容"
+
+#: asteria/asteria_options.php:159
+msgid "Hide Block 4"
+msgstr "隐藏版块 4"
+
+#: asteria/asteria_options.php:161
+msgid "Block 4 Title "
+msgstr "版块版块 4 标题"
+
+#: asteria/asteria_options.php:163
+msgid "Block 4 Icon"
+msgstr "版块 4 图标"
+
+#: asteria/asteria_options.php:165
+msgid "Block 4 Content"
+msgstr "版块 4 内容"
+
+#: asteria/asteria_options.php:171 asteria/asteria_options.php:174
+#: asteria/asteria_options.php:263
+msgid "Welcome Text"
+msgstr "欢迎文字"
+
+#: asteria/asteria_options.php:176 asteria/asteria_options.php:245
+msgid "Background Color "
+msgstr "背景颜色"
+
+#: asteria/asteria_options.php:181 asteria/asteria_options.php:263
+msgid "Tabs"
+msgstr "选项卡"
+
+#: asteria/asteria_options.php:188
+msgid "Tab Title "
+msgstr "选项卡标题"
+
+#: asteria/asteria_options.php:189
+msgid "Tab Content "
+msgstr "选项卡内容"
+
+#: asteria/asteria_options.php:195
+msgid "Click the \"Add New\" button to add a new tab."
+msgstr "点击“添加新选项卡”按钮来添加一个新的选项卡"
+
+#: asteria/asteria_options.php:195
+msgid ""
+"Note: Upon Clicking the Add New Button the visual editor may not appear "
+"properly. Click the \"Save Changes\" button from top and the editor will "
+"appear just fine."
+msgstr ""
+"注意：点击“添加新选项卡按钮”时，视觉编辑器可能无法正确显示。点击顶部的“保存更"
+"改”按钮，编辑器会正常显示。"
+
+#: asteria/asteria_options.php:201
+msgid "Frontpage Posts"
+msgstr "头版帖子"
+
+#: asteria/asteria_options.php:203 asteria/asteria_options.php:229
+msgid "Title &amp; Description"
+msgstr "标题及描述"
+
+#: asteria/asteria_options.php:206
+msgid "Posts layout"
+msgstr "帖子布局"
+
+#: asteria/asteria_options.php:206
+msgid "Select how you want to display posts on Front page"
+msgstr "选择您想要帖子在头版上的显示方式"
+
+#: asteria/asteria_options.php:215
+msgid "Display posts from a Category"
+msgstr "按照分类显示帖子"
+
+#: asteria/asteria_options.php:217
+msgid "Category Name"
+msgstr "类别名称"
+
+#: asteria/asteria_options.php:219
+msgid "Number of Posts "
+msgstr "帖子数量"
+
+#: asteria/asteria_options.php:219 asteria/asteria_options.php:291
+msgid "must be numeric value"
+msgstr "必须是数值"
+
+#: asteria/asteria_options.php:227 asteria/asteria_options.php:263
+msgid "Location Map"
+msgstr "定位图"
+
+#: asteria/asteria_options.php:231
+msgid "Lattitude and Longitude "
+msgstr "纬度和经度"
+
+#: asteria/asteria_options.php:231
+msgid ""
+"Lattitude and Longitude should be seperated by comma. eg: 53.359286 , "
+"-2.040904 To find your location's lattitude and longitude, use <a target="
+"\"_blank\" href=\"http://www.doogal.co.uk/LatLong.php\">this website</a>"
+msgstr ""
+"纬度和经度之间应该用逗号隔开，比如：53.359286 , -2.040904。要找到您所在位置的"
+"纬度和经度，可以使用<a target=\"_blank\" href=\"http://www.doogal.co.uk/"
+"LatLong.php\">this website</a>"
+
+#: asteria/asteria_options.php:233
+msgid "Map Bubble Text "
+msgstr "地图气泡文本"
+
+#: asteria/asteria_options.php:233
+msgid "display this text when you hover over map marker"
+msgstr "当您悬停在地图标记上方时，显示此文本"
+
+#: asteria/asteria_options.php:238 asteria/asteria_options.php:263
+msgid "Call to Action"
+msgstr "行动号召"
+
+#: asteria/asteria_options.php:240
+msgid "Call to Action Text "
+msgstr "行动号召文本"
+
+#: asteria/asteria_options.php:240
+msgid ""
+"You call to action text here. you can change the color of the text from here "
+"too."
+msgstr "在这里输入行动号召文本，您也可以在这里更改文本颜色。"
+
+#: asteria/asteria_options.php:241
+msgid "Button Text "
+msgstr "按钮文本"
+
+#: asteria/asteria_options.php:242
+msgid "Button Link "
+msgstr "按钮链接 "
+
+#: asteria/asteria_options.php:247
+msgid "Button Color "
+msgstr "按钮颜色"
+
+#: asteria/asteria_options.php:249
+msgid "Button Text Color "
+msgstr "按钮文本颜色"
+
+#: asteria/asteria_options.php:256 asteria/asteria_options.php:263
+msgid "Frontpage Widgets Area"
+msgstr "头版组件区域"
+
+#: asteria/asteria_options.php:258
+msgid ""
+"You can add widgets to your 'Frontpage Widgets Area' from Appearance> Widgets"
+msgstr "您可以把组件添加到您的'Frontpage Widgets Area' from Appearance>组件中"
+
+#: asteria/asteria_options.php:263
+msgid "Frontpage Elements position"
+msgstr "头版元素位置"
+
+#: asteria/asteria_options.php:263
+msgid "Sortable field description"
+msgstr "可排序字段描述"
+
+#: asteria/asteria_options.php:285
+msgid "Slider Setup"
+msgstr "滑块设置"
+
+#: asteria/asteria_options.php:288
+msgid "Slider Type"
+msgstr "滑块类型"
+
+#: asteria/asteria_options.php:291
+msgid "Pause Time Between Each Slide "
+msgstr "滑动停顿时间"
+
+#: asteria/asteria_options.php:294
+msgid "Slider Height "
+msgstr "滑块高度"
+
+#: asteria/asteria_options.php:298
+msgid "Slide Font Style"
+msgstr "滑动字体类型"
+
+#: asteria/asteria_options.php:306 asteria/asteria_options.php:565
+msgid "Title "
+msgstr "标题"
+
+#: asteria/asteria_options.php:307
+msgid "Image"
+msgstr "图片"
+
+#: asteria/asteria_options.php:308
+msgid "Content "
+msgstr "内容"
+
+#: asteria/asteria_options.php:309
+msgid "Link "
+msgstr "链接"
+
+#: asteria/asteria_options.php:310
+msgid "Slide Text Layout"
+msgstr "滑动文本布局"
+
+#: asteria/asteria_options.php:316
+msgid "Create Slides"
+msgstr "创建滑动"
+
+#: asteria/asteria_options.php:316
+msgid "Repeater field description"
+msgstr "循环域描述"
+
+#: asteria/asteria_options.php:333
+msgid "To change the color settings, Use the "
+msgstr "要更改颜色设置，请使用"
+
+#: asteria/asteria_options.php:335 asteria/functions.php:407
+msgid "Primary Element background Color"
+msgstr "主要元素背景颜色"
+
+#: asteria/asteria_options.php:336 asteria/functions.php:413
+msgid "Secondary Element background Color"
+msgstr "次要元素背景颜色"
+
+#: asteria/asteria_options.php:337 asteria/functions.php:419
+msgid "Header Background Color"
+msgstr "页眉背景颜色"
+
+#: asteria/asteria_options.php:338
+msgid "Footer Widgets Background Color"
+msgstr "页脚组件背景颜色"
+
+#: asteria/asteria_options.php:339
+msgid "Sidebar Widgets Background Color"
+msgstr "侧栏组件背景颜色"
+
+#: asteria/asteria_options.php:340
+msgid "Post icon Color"
+msgstr "张贴图标颜色"
+
+#: asteria/asteria_options.php:342
+msgid "<h3 style='margin-top:60px;'>Text Colors</h3>"
+msgstr "<h3 style='margin-top:60px;'> colori del testo </ h3>"
+
+#: asteria/asteria_options.php:343
+msgid "Sitewide Text Color"
+msgstr "站点文本颜色"
+
+#: asteria/asteria_options.php:344
+msgid "Text Color on secondary elements"
+msgstr "次要元素上的文本颜色"
+
+#: asteria/asteria_options.php:345
+msgid "Menu Text Color"
+msgstr "菜单文本颜色"
+
+#: asteria/asteria_options.php:346
+msgid "Footer Widget Text Color"
+msgstr "页脚组件文本颜色"
+
+#: asteria/asteria_options.php:347
+msgid "Footer Widgets Title Color"
+msgstr "页脚组件标题颜色"
+
+#: asteria/asteria_options.php:348
+msgid "Sidebar Text Color"
+msgstr "侧栏文本颜色"
+
+#: asteria/asteria_options.php:349
+msgid "\"Leave a Reply\" Text Color"
+msgstr "\"评论\" 文本颜色"
+
+#: asteria/asteria_options.php:363
+msgid "Typograhy Settings"
+msgstr "排印设置"
+
+#: asteria/asteria_options.php:367
+msgid "Logo Style"
+msgstr "标识风格"
+
+#: asteria/asteria_options.php:377
+msgid "Site Content Text Style"
+msgstr "站点内容文本风格"
+
+#: asteria/asteria_options.php:386
+msgid "Post Titles, headings and Menu Font"
+msgstr "帖子标题、题目和菜单字体"
+
+#: asteria/asteria_options.php:388
+msgid "Menu Font Size"
+msgstr "菜单字号"
+
+#: asteria/asteria_options.php:392
+msgid "Post Title Font Size"
+msgstr "帖子标题字号"
+
+#: asteria/asteria_options.php:394
+msgid "Post Title Font Style"
+msgstr "帖子标题字体风格"
+
+#: asteria/asteria_options.php:397
+msgid "Page Title Font Size"
+msgstr "页面标题字号"
+
+#: asteria/asteria_options.php:399
+msgid "Page Title Font Style"
+msgstr "页面标题字体风格"
+
+#: asteria/asteria_options.php:424
+msgid "Social Buttons"
+msgstr "社交按钮"
+
+#: asteria/asteria_options.php:427
+msgid "Social Share Icons under Posts "
+msgstr "帖子下面的社交分享图标"
+
+#: asteria/asteria_options.php:430
+msgid "Social Share Icons Color "
+msgstr "社交分享图标颜色"
+
+#: asteria/asteria_options.php:434
+msgid "Facebook URL "
+msgstr "Facebook 网址"
+
+#: asteria/asteria_options.php:436
+msgid "Twitter URL "
+msgstr "Twitter 网址"
+
+#: asteria/asteria_options.php:438
+msgid "Google Plus URL "
+msgstr "Google Plus 网址"
+
+#: asteria/asteria_options.php:440
+msgid "Youtube URL "
+msgstr "Youtube 网址"
+
+#: asteria/asteria_options.php:442
+msgid "Flickr URL "
+msgstr "Flickr 网址"
+
+#: asteria/asteria_options.php:444
+msgid "Linkedin URL "
+msgstr "Linkedin 网址"
+
+#: asteria/asteria_options.php:446
+msgid "Pinterest URL "
+msgstr "Pinterest 网址"
+
+#: asteria/asteria_options.php:448
+msgid "Tumblr URL "
+msgstr "Tumblr 网址"
+
+#: asteria/asteria_options.php:450
+msgid "Instagram URL "
+msgstr "Instagram 网址"
+
+#: asteria/asteria_options.php:452
+msgid "RSS URL "
+msgstr "RSS 网址"
+
+#: asteria/asteria_options.php:467
+msgid "Miscellaneous Settings"
+msgstr "其他设置"
+
+#: asteria/asteria_options.php:470
+msgid "Show Post Info - Date, Author Name, Categories etc.."
+msgstr "显示帖子信息-日期、作者姓名、类别等"
+
+#: asteria/asteria_options.php:472
+msgid "Show Related Posts"
+msgstr "显示相关帖子"
+
+#: asteria/asteria_options.php:474
+msgid "Show Next and Previous Posts"
+msgstr "显示下一条和上一条帖子"
+
+#: asteria/asteria_options.php:476
+msgid "Show Comments"
+msgstr "显示评论"
+
+#: asteria/asteria_options.php:478
+msgid "Lightbox Feature"
+msgstr "灯箱功能"
+
+#: asteria/asteria_options.php:481
+msgid "Display Blog Posts from a selected Category"
+msgstr "显示特定类别博客帖子"
+
+#: asteria/asteria_options.php:481
+msgid ""
+"If you have setup a Blog page with Blog Page Template, choose a category to "
+"get the posts from"
+msgstr "如果您使用博客页面模版设置了博客页面，可以选择一个类别通过"
+
+#: asteria/asteria_options.php:486
+msgid "Contact Page email address "
+msgstr "联系方式页面中的电子邮件来获取相关帖子"
+
+#: asteria/asteria_options.php:487
+msgid ""
+"If you have setup a contact page with Contact Page Template, set where you "
+"want your emails to be sent. Default is set to your Wordpress admin email "
+"address."
+msgstr ""
+"如果您已经通过联系方式页面模版设置了联系方式页面，您可以设置您的电子邮件接收"
+"对象。默认接收对象设置为您的Wordpress管理员邮件地址。"
+
+#: asteria/asteria_options.php:490
+msgid "must be a valid email address"
+msgstr "必须为有效电子邮件地址"
+
+#: asteria/asteria_options.php:496
+msgid "Google Analytics "
+msgstr "谷歌分析"
+
+#: asteria/asteria_options.php:496
+msgid ""
+"Paste your google analytics code here and it will be added to all the pages "
+"of your site"
+msgstr "在这里张贴您的谷歌分析代码，该代码会被添加到您网站的所有页面上。"
+
+#: asteria/asteria_options.php:512
+msgid ""
+"Checking each of these below option will only hide these elements from the "
+"Mobile layout."
+msgstr "对下面这些选项打勾只会在移动布局里隐藏这些元素。"
+
+#: asteria/asteria_options.php:515
+msgid "Hide Slider"
+msgstr "隐藏滑块"
+
+#: asteria/asteria_options.php:516
+msgid "Hide Front Page Blocks"
+msgstr "隐藏头版版块"
+
+#: asteria/asteria_options.php:517
+msgid "Hide Front Page Welcome Text"
+msgstr "隐藏头版欢迎文字"
+
+#: asteria/asteria_options.php:518
+msgid "Hide Front Page Tabs"
+msgstr "隐藏头版选项卡"
+
+#: asteria/asteria_options.php:519
+msgid "Hide Front Page Posts"
+msgstr "隐藏头版帖子"
+
+#: asteria/asteria_options.php:520
+msgid "Hide Front Page Map"
+msgstr "隐藏头版地图"
+
+#: asteria/asteria_options.php:521
+msgid "Hide Front Page Widgets"
+msgstr "隐藏头版组件"
+
+#: asteria/asteria_options.php:522
+msgid "Hide Footer Widgets"
+msgstr "隐藏页脚组件"
+
+#: asteria/asteria_options.php:523
+msgid "Hide Right Sidebar"
+msgstr "隐藏右边侧栏"
+
+#: asteria/asteria_options.php:540
+msgid "Write your custom css here "
+msgstr "在这里记录您的定制css"
+
+#: asteria/asteria_options.php:557
+msgid "Maintanance Mode"
+msgstr "维护模式"
+
+#: asteria/asteria_options.php:559
+msgid "BackTime"
+msgstr "取指令时间"
+
+#: asteria/asteria_options.php:561
+msgid "Date "
+msgstr "日期"
+
+#: asteria/asteria_options.php:563
+msgid "Time "
+msgstr "时间"
+
+#: asteria/asteria_options.php:568
+msgid "Message "
+msgstr "信息"
+
+#: asteria/asteria_options.php:568
+msgid "wysiwyg field description"
+msgstr "所见即所得域描述"
+
+#: asteria/asteria_options.php:582
+msgid "Import Export"
+msgstr "导入导出"
+
+#: asteria/asteria_options.php:642
+msgid "My help tab title"
+msgstr "我的帮助选项卡标题"
+
+#: asteria/asteria_options.php:643
+msgid "This is my Help Tab content"
+msgstr "这里是我的帮助选项卡内容"
+
+#: asteria/asteria_options.php:647
+msgid "My 2nd help tab title"
+msgstr "我的第二个帮助选项卡标题"
+
+#: asteria/asteria_options.php:653
+msgid "This is my 2nd Help Tab content from a callback function"
+msgstr "这里是我的第二个帮助选项卡内容，由回调函数得到"
+
+#: asteria/author.php:26
+msgid "Posts by "
+msgstr "发帖人"
+
+#: asteria/author.php:68 asteria/layout4.php:54 asteria/layout5.php:20
+#: asteria/page-blog.php:75 asteria/single.php:32
+msgid "0 Comment"
+msgstr "0 个评论"
+
+#: asteria/author.php:68 asteria/layout4.php:54 asteria/layout5.php:20
+#: asteria/page-blog.php:75 asteria/single.php:32
+msgid "1 Comment"
+msgstr "1 个评论"
+
+#: asteria/author.php:68 asteria/layout4.php:54 asteria/layout5.php:20
+#: asteria/page-blog.php:75 asteria/single.php:32
+msgid "% Comments"
+msgstr "% 评论"
+
+#: asteria/author.php:68 asteria/layout4.php:54 asteria/layout5.php:20
+#: asteria/page-blog.php:75 asteria/single.php:32
+msgid "Off"
+msgstr "关闭"
+
+#: asteria/comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "本帖受密码保护。要浏览评论，请先输入密码。"
+
+#: asteria/comments.php:15
+msgid "No Responses"
+msgstr "没有回应"
+
+#: asteria/comments.php:15
+msgid "One Response"
+msgstr "一条回应"
+
+#: asteria/comments.php:15
+msgid "% Responses"
+msgstr "% 回应"
+
+#: asteria/comments.php:29
+msgid "Trackbacks &amp; Pings"
+msgstr "引用通告和广播"
+
+#: asteria/comments.php:51
+msgid "Comments are closed."
+msgstr "评论已关闭"
+
+#: asteria/comments.php:62 asteria/functions.php:269
+msgid "Leave a Reply"
+msgstr "评论"
+
+#: asteria/comments.php:66 asteria/functions.php:273
+#: asteria/lib/includes/widgets.php:1914
+msgid "Name"
+msgstr "姓名"
+
+#: asteria/comments.php:68 asteria/functions.php:275
+msgid "Email"
+msgstr "电子邮件"
+
+#: asteria/comments.php:70 asteria/functions.php:277
+msgid "Website"
+msgstr "网址"
+
+#: asteria/footer.php:33
+msgid "Theme by"
+msgstr "主题撰写者"
+
+#: asteria/functions.php:83 asteria/functions.php:85
+msgid "Right Sidebar"
+msgstr "右边侧栏"
+
+#: asteria/functions.php:93
+msgid "Home Widgets"
+msgstr "主页组件"
+
+#: asteria/functions.php:95
+msgid "Widget Area for the homepage"
+msgstr "主页上的组件区域"
+
+#: asteria/functions.php:103
+msgid "Footer Widgets"
+msgstr "页脚组件"
+
+#: asteria/functions.php:105
+msgid "Widget Area for the Footer"
+msgstr "页脚上的组件区域"
+
+#: asteria/functions.php:164 asteria/functions.php:173
+msgid "+ Read More"
+msgstr "+ 阅读更多"
+
+#: asteria/functions.php:198
+msgid "Search...."
+msgstr "搜索...."
+
+#: asteria/functions.php:219
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: asteria/functions.php:219
+msgid "says:"
+msgstr "说:"
+
+#: asteria/functions.php:222 asteria/functions.php:247
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正等待审核。"
+
+#: asteria/functions.php:231 asteria/functions.php:256
+#: asteria/admin/admin-page-class.php:1632
+msgid "Edit"
+msgstr "编辑"
+
+#: asteria/functions.php:252
+#, php-format
+msgid "<cite class=\"citeping\">%s</cite> <span class=\"says\">:</span>"
+msgstr "<cite class=\"citeping\"> %s </ cite> <span class=\"says\">: </ span>"
+
+#: asteria/functions.php:304
+msgid "Header Navigation"
+msgstr "页眉导航"
+
+#: asteria/functions.php:305
+msgid "Footer Navigation"
+msgstr "页脚导航"
+
+#: asteria/functions.php:425
+msgid "Footer Background Color"
+msgstr "页脚背景颜色"
+
+#: asteria/functions.php:431
+msgid "Sidebar Background Color"
+msgstr "侧栏背景颜色"
+
+#: asteria/functions.php:437
+msgid "Single Post icon Color"
+msgstr "单一帖子图标颜色"
+
+#: asteria/head1.php:36 asteria/head2.php:6 asteria/head3.php:47
+#: asteria/head4.php:36 asteria/head5.php:36
+msgid "Menu"
+msgstr "菜单"
+
+#: asteria/layout5.php:10 asteria/page-contact.php:85
+#: asteria/page-fullwidth.php:25 asteria/page-leftsidebar.php:26
+#: asteria/page.php:20 asteria/single.php:18
+msgid "Edit This"
+msgstr "编辑此项"
+
+#: asteria/layout5.php:27 asteria/page-contact.php:107
+#: asteria/page-fullwidth.php:31 asteria/page-leftsidebar.php:32
+#: asteria/page.php:27 asteria/single.php:42
+msgid "Pages:"
+msgstr "页数："
+
+#: asteria/page-contact.php:94
+msgid "Name*"
+msgstr "姓名*"
+
+#: asteria/page-contact.php:95
+msgid "Email*"
+msgstr "电子邮件*"
+
+#: asteria/page-contact.php:96
+msgid "Your Message"
+msgstr "您的信息"
+
+#: asteria/page-contact.php:97
+msgid "Human Verification"
+msgstr "人工验证"
+
+#: asteria/related.php:2
+msgid "Related Posts"
+msgstr "相关帖子"
+
+#: asteria/related.php:91
+msgid "Read More"
+msgstr "阅读更多"
+
+#: asteria/search.php:5
+#, php-format
+msgid "Search Results for: %s"
+msgstr "搜索结果: %s"
+
+#: asteria/search.php:6
+msgid "Total posts found for"
+msgstr "发现的总帖子数"
+
+#: asteria/search.php:6
+msgid "<span class=\"search-terms\">\""
+msgstr ""
+
+#: asteria/search.php:6
+msgid "\"</span>"
+msgstr ""
+
+#: asteria/search.php:6
+msgid " &mdash; "
+msgstr " - "
+
+#: asteria/share_this.php:4
+msgid "this post on Facebook"
+msgstr "在Facebook上的此帖"
+
+#: asteria/share_this.php:7 asteria/share_this.php:13
+msgid "this post"
+msgstr "本帖"
+
+#: asteria/share_this.php:10
+msgid "Submit to"
+msgstr "提交到"
+
+#: asteria/share_this.php:16 asteria/share_this.php:20
+msgid "This"
+msgstr "本"
+
+#: asteria/admin/admin-page-class.php:404
+msgid "Allowed Files"
+msgstr "允许文件"
+
+#: asteria/admin/admin-page-class.php:621
+msgid "Block 1 Settings"
+msgstr "版块 1 设置"
+
+#: asteria/admin/admin-page-class.php:622
+msgid "Block 2 Settings"
+msgstr "版块 2 设置"
+
+#: asteria/admin/admin-page-class.php:623
+msgid "Block 3 Settings"
+msgstr "版块 3 设置"
+
+#: asteria/admin/admin-page-class.php:624
+msgid "Block 4 Settings"
+msgstr "版块 4 设置"
+
+#: asteria/admin/admin-page-class.php:667
+msgid "Live Customizer"
+msgstr "实时定制器"
+
+#: asteria/admin/admin-page-class.php:829
+#: asteria/admin/admin-page-class.php:831
+msgid "Insert into Post"
+msgstr "在帖子中插入"
+
+#: asteria/admin/admin-page-class.php:829
+msgid "Use this File"
+msgstr "使用本文件"
+
+#: asteria/admin/admin-page-class.php:831
+msgid "Use this Image"
+msgstr "使用本图片"
+
+#: asteria/admin/admin-page-class.php:863
+msgid "Upgrade to Pro"
+msgstr "升级到专业版"
+
+#: asteria/admin/admin-page-class.php:864
+#: asteria/admin/admin-page-class.php:962
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: asteria/admin/admin-page-class.php:877
+msgid "Settings saved."
+msgstr "设置已保存"
+
+#: asteria/admin/admin-page-class.php:1345
+msgid "Delete this image"
+msgstr "删除本图片"
+
+#: asteria/admin/admin-page-class.php:1345
+#: asteria/admin/admin-page-class.php:2012
+msgid "Delete"
+msgstr "删除"
+
+#: asteria/admin/admin-page-class.php:1440
+msgid "Cannot delete file. Something's wrong."
+msgstr "出现错误，无法删除文件。"
+
+#: asteria/admin/admin-page-class.php:1633
+#: asteria/admin/admin-page-class.php:1665
+#: asteria/meta-box-class/my-meta-box-class.php:420
+#: asteria/meta-box-class/my-meta-box-class.php:459
+msgid "Remove"
+msgstr "移除"
+
+#: asteria/admin/admin-page-class.php:1639
+msgid "Add New"
+msgstr "添加新的"
+
+#: asteria/admin/admin-page-class.php:1639
+msgid "+ Add New"
+msgstr "+ 添加新的"
+
+#: asteria/admin/admin-page-class.php:1803
+msgid "Select Files"
+msgstr "选择文件"
+
+#: asteria/admin/admin-page-class.php:2008
+msgid "Uploaded files"
+msgstr "已上传文件"
+
+#: asteria/admin/admin-page-class.php:2019
+msgid "Upload new files"
+msgstr "上传新文件"
+
+#: asteria/admin/admin-page-class.php:2025
+msgid "Add more files"
+msgstr "添加更多文件"
+
+#: asteria/admin/admin-page-class.php:2045
+#: asteria/admin/admin-page-class.php:2078
+msgid "Delete Image"
+msgstr "删除图片"
+
+#: asteria/admin/admin-page-class.php:2050
+#: asteria/admin/admin-page-class.php:2083
+#: asteria/lib/includes/widgets.php:1774 asteria/lib/includes/widgets.php:1909
+msgid "Upload Image"
+msgstr "上传图片"
+
+#: asteria/admin/admin-page-class.php:2160
+#: asteria/admin/admin-page-class.php:2186
+#: asteria/meta-box-class/my-meta-box-class.php:786
+msgid "Select a color"
+msgstr "选择一种颜色"
+
+#: asteria/admin/admin-page-class.php:3419
+msgid "Export"
+msgstr "导出"
+
+#: asteria/admin/admin-page-class.php:3420
+msgid ""
+"To export saved settings click the Export button bellow and you will get the "
+"export Code in the box bellow, which you can later use to import."
+msgstr ""
+"要导出已保存的设置，点击下面的“导出”按钮。之后您会在下面的小框中获得一个导出"
+"代码，在以后的导入中会使用到该代码。"
+
+#: asteria/admin/admin-page-class.php:3422
+msgid "Export Code"
+msgstr "导出代码"
+
+#: asteria/admin/admin-page-class.php:3424
+msgid "Get Export"
+msgstr "获取导出"
+
+#: asteria/admin/admin-page-class.php:3429
+#: asteria/admin/admin-page-class.php:3434
+msgid "Import"
+msgstr "导入"
+
+#: asteria/admin/admin-page-class.php:3430
+msgid ""
+"To Import saved settings paste the Export output in to the Import Code box "
+"bellow and click Import."
+msgstr "要导入已保存的设置，将导出内容粘贴至下面的导入代码框中，点击“导入”"
+
+#: asteria/admin/admin-page-class.php:3432
+msgid "Import Code"
+msgstr "导入代码"
+
+#: asteria/admin/admin-page-class.php:3459
+msgid "error in ajax request! (1)"
+msgstr "Ajax请求出现错误! (1)"
+
+#: asteria/admin/admin-page-class.php:3469
+msgid "error in ajax request! (2)"
+msgstr "Ajax请求出现错误!  (2)"
+
+#: asteria/admin/admin-page-class.php:3490
+msgid "error in ajax request! (3)"
+msgstr "Ajax请求出现错误! (3)"
+
+#: asteria/admin/admin-page-class.php:3502
+msgid "Setting imported, make sure you "
+msgstr "设置已导入，请您"
+
+#: asteria/admin/admin-page-class.php:3502
+msgid "Refresh this page"
+msgstr "刷新本页面"
+
+#: asteria/admin/admin-page-class.php:3504
+msgid "Could not import settings! (4)"
+msgstr "无法导入设置！(4)"
+
+#: asteria/admin/admin-page-class.php:3525
+msgid "You do not have sufficient permissions to edit templates for this site."
+msgstr "您没有足够的权限来编辑本站点模版。"
+
+#: asteria/admin/admin-page-class.php:3528
+msgid "Error Downloading file."
+msgstr "下载文件出现错误"
+
+#: asteria/admin/admin-page-class.php:3550
+#: asteria/admin/admin-page-class.php:3553
+msgid "Download Export"
+msgstr "下载导出"
+
+#: asteria/admin/admin-page-class.php:3620
+msgid "Not Valid "
+msgstr "无效"
+
+#: asteria/admin/admin-page-class.php:3638
+msgid "Errors in saving changes"
+msgstr "保存更改出现错误"
+
+#: asteria/admin/admin-page-class.php:3663
+msgid "Unkown Error"
+msgstr "未知错误"
+
+#: asteria/lib/includes/widgets.php:26
+msgid ""
+"A asteria widget that allows the display and configuration of of a single "
+"125x125 Banner."
+msgstr "一个允许显示和配置一条125x125大小横幅的阿斯特瑞亚组件"
+
+#: asteria/lib/includes/widgets.php:32
+msgid "Custom 125x125 Ad*"
+msgstr "定制125x125 广告*"
+
+#: asteria/lib/includes/widgets.php:123 asteria/lib/includes/widgets.php:265
+#: asteria/lib/includes/widgets.php:393 asteria/lib/includes/widgets.php:559
+#: asteria/lib/includes/widgets.php:732 asteria/lib/includes/widgets.php:904
+#: asteria/lib/includes/widgets.php:1078 asteria/lib/includes/widgets.php:1218
+#: asteria/lib/includes/widgets.php:1368 asteria/lib/includes/widgets.php:1503
+#: asteria/lib/includes/widgets.php:1635 asteria/lib/includes/widgets.php:2168
+msgid "Title:"
+msgstr "标题"
+
+#: asteria/lib/includes/widgets.php:126
+msgid "1st Ad block"
+msgstr "第一处广告版块"
+
+#: asteria/lib/includes/widgets.php:129 asteria/lib/includes/widgets.php:143
+#: asteria/lib/includes/widgets.php:271 asteria/lib/includes/widgets.php:399
+msgid "Ad image url:"
+msgstr "广告图像网址："
+
+#: asteria/lib/includes/widgets.php:135 asteria/lib/includes/widgets.php:149
+#: asteria/lib/includes/widgets.php:277 asteria/lib/includes/widgets.php:405
+msgid "Ad link url:"
+msgstr "广告链接网址："
+
+#: asteria/lib/includes/widgets.php:140
+msgid "2nd Ad block"
+msgstr "第二处广告版块"
+
+#: asteria/lib/includes/widgets.php:182
+msgid ""
+"A asteria widget that allows the display and configuration of of a single "
+"250x250 Banner."
+msgstr "一个允许显示和配置一条250x250大小横幅的阿斯特瑞亚组件"
+
+#: asteria/lib/includes/widgets.php:188
+msgid "Custom 250x250 Ad*"
+msgstr "定制250x250广告 *"
+
+#: asteria/lib/includes/widgets.php:310
+msgid ""
+"A asteria widget that allows the display and configuration of of a single "
+"160x600 Banner."
+msgstr "一个允许显示和配置一条160x600大小横幅的阿斯特瑞亚组件"
+
+#: asteria/lib/includes/widgets.php:316
+msgid "Custom 160x600 Ad*"
+msgstr "定制160x600广告*"
+
+#: asteria/lib/includes/widgets.php:438
+msgid ""
+"An asteria widget that displays the most popular posts of the site, Based on "
+"the comments count "
+msgstr "一个显示网站上最热帖子的阿斯特瑞亚组件，依据评论数量"
+
+#: asteria/lib/includes/widgets.php:444
+msgid "Popular Posts Widget*"
+msgstr "热帖组件 *"
+
+#: asteria/lib/includes/widgets.php:566 asteria/lib/includes/widgets.php:738
+#: asteria/lib/includes/widgets.php:910 asteria/lib/includes/widgets.php:1091
+msgid "Number of Posts:"
+msgstr "帖子数量："
+
+#: asteria/lib/includes/widgets.php:571 asteria/lib/includes/widgets.php:743
+#: asteria/lib/includes/widgets.php:915 asteria/lib/includes/widgets.php:1096
+msgid "Layout Type:"
+msgstr "布局类型："
+
+#: asteria/lib/includes/widgets.php:612
+msgid "A asteria widget that displays the random posts of the site"
+msgstr "一个随机显示网站帖子的阿斯特瑞亚组件"
+
+#: asteria/lib/includes/widgets.php:618
+msgid "Random Posts Widget*"
+msgstr "随机帖子组件*"
+
+#: asteria/lib/includes/widgets.php:784
+msgid "An asteria widget that displays the recent posts of your site"
+msgstr "一个显示您网站最近发帖的阿斯特瑞亚组件"
+
+#: asteria/lib/includes/widgets.php:790
+msgid "Recent Posts Widget*"
+msgstr "最近发帖组件*"
+
+#: asteria/lib/includes/widgets.php:956
+msgid ""
+"A asteria widget that displays the featured posts from your selected category"
+msgstr "一个根据您选择的类别显示特定帖子的组件"
+
+#: asteria/lib/includes/widgets.php:962
+msgid "Featured Posts Widget*"
+msgstr "特定帖子组件*"
+
+#: asteria/lib/includes/widgets.php:1084
+msgid "Category:"
+msgstr "类别："
+
+#: asteria/lib/includes/widgets.php:1134
+msgid ""
+"A asteria widget that displays Flickr image stream from your Flickr account"
+msgstr "一个显示您Flickr帐户里Flickr图片流的阿斯特瑞亚组件"
+
+#: asteria/lib/includes/widgets.php:1138
+msgid "Flickr Photostream Widget*"
+msgstr "Flickr 相片流组件*"
+
+#: asteria/lib/includes/widgets.php:1224
+msgid "Flickr ID:"
+msgstr "Flickr 用户名:"
+
+#: asteria/lib/includes/widgets.php:1230
+msgid "Number of Photos:"
+msgstr "相片数量："
+
+#: asteria/lib/includes/widgets.php:1240
+msgid "Type (user or group):"
+msgstr "类别（用户或群组）："
+
+#: asteria/lib/includes/widgets.php:1249
+msgid "Display (random or latest):"
+msgstr "显示方式（随机或显示最新）："
+
+#: asteria/lib/includes/widgets.php:1286
+msgid "An Asteria widget that displays Facebook Likebox of your Facebook Page"
+msgstr "一个显示您Facebook页面上粉丝团赞的阿斯特瑞亚组件"
+
+#: asteria/lib/includes/widgets.php:1292
+msgid "Facebook Likebox Widget*"
+msgstr "Facebook 粉丝团赞组件*"
+
+#: asteria/lib/includes/widgets.php:1374
+msgid "Facebook Page url:"
+msgstr "Facebook页面网址："
+
+#: asteria/lib/includes/widgets.php:1380
+msgid "Height of the like Box"
+msgstr "粉丝团赞的高度"
+
+#: asteria/lib/includes/widgets.php:1417
+msgid ""
+"An Asteria widget that displays Twitter Followers from your Twitter profile"
+msgstr "一个显示您Twitter主页上Twitter关注者的阿斯特瑞亚组件"
+
+#: asteria/lib/includes/widgets.php:1423
+msgid "Twitter Followers Widget*"
+msgstr "Twitter 关注者组件*"
+
+#: asteria/lib/includes/widgets.php:1509
+msgid "Twiiter Account id:"
+msgstr "Twiiter 账号:"
+
+#: asteria/lib/includes/widgets.php:1547
+msgid "An Asteria widget that displays your Google Plus Followers"
+msgstr "一个显示您谷歌加关注者的阿斯特瑞亚组件"
+
+#: asteria/lib/includes/widgets.php:1553
+msgid "Google Plus Followers Widget*"
+msgstr "谷歌加关注者组件*"
+
+#: asteria/lib/includes/widgets.php:1641
+msgid "Google Plus Url:"
+msgstr "谷歌加网址："
+
+#: asteria/lib/includes/widgets.php:1687
+msgid "An Asteria Image to display a single image"
+msgstr "一张显示单一图片的阿斯特瑞亚图片"
+
+#: asteria/lib/includes/widgets.php:1693
+msgid "Image Widget*"
+msgstr "图片组件*"
+
+#: asteria/lib/includes/widgets.php:1768 asteria/lib/includes/widgets.php:1903
+#: asteria/lib/includes/widgets.php:2079
+msgid "Title"
+msgstr "标题"
+
+#: asteria/lib/includes/widgets.php:1779
+msgid "Image Link"
+msgstr "图片链接"
+
+#: asteria/lib/includes/widgets.php:1817
+msgid "An Asteria Biography widget to display your biography"
+msgstr "一个显示您个人简介的阿斯特瑞亚简介组件"
+
+#: asteria/lib/includes/widgets.php:1823
+msgid "Biography Widget*"
+msgstr "个人简介组件*"
+
+#: asteria/lib/includes/widgets.php:1919
+msgid "Occupation"
+msgstr "职业"
+
+#: asteria/lib/includes/widgets.php:1924 asteria/lib/includes/widgets.php:2089
+msgid "Description"
+msgstr "描述"
+
+#: asteria/lib/includes/widgets.php:1965
+msgid "An Asteria widget to display a Countdown"
+msgstr "一个显示倒计时的阿斯特瑞亚组件"
+
+#: asteria/lib/includes/widgets.php:1971
+msgid "Countdown Widget*"
+msgstr "倒计时组件*"
+
+#: asteria/lib/includes/widgets.php:2085
+msgid "Set Countdown Date"
+msgstr "设置倒计时日期"
+
+#: asteria/lib/includes/widgets.php:2094
+msgid "Set Countdown Time"
+msgstr "设置倒计时时间"
+
+#: asteria/lib/includes/widgets.php:2172
+msgid "Username:"
+msgstr "用户名："
+
+#: asteria/lib/includes/widgets.php:2177
+msgid "Number of Pins"
+msgstr "引脚数量"
+
+#: asteria/lib/includes/widgets.php:2182
+msgid "Open links in a new window?"
+msgstr "在新窗口中打开链接？"
+
+#: asteria/lib/includes/widgets.php:2236
+msgid "More Pins"
+msgstr "更多引脚"
+
+#: asteria/meta-box-class/my-meta-box-class.php:432
+msgid "Add"
+msgstr "添加"
+
+#: asteria/meta-box-class/my-meta-box-class.php:1819
+#: asteria/meta-box-class/my-meta-box-class.php:1827
+msgid "Sorry, you cannot upload this file type for this field."
+msgstr "对不起，您无法在这个域上传此类型文件"

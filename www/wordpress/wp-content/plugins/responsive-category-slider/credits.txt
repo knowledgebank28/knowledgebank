@@ -1,0 +1,45 @@
+Thanks to all the great authors who shared their brilliant work and let us use it.
+
+1. Jquery
+/
+* Thanks to 2013 jQuery Foundation, Inc for jQuery v2.0.3 @http:// jquery.org/license 
+*License: MIT license:http://en.wikipedia.org/wiki/MIT_License  
+* Thank http://sizzlejs.com/ for the Sizzle.js. Free to use by the license https://github.com/jquery/sizzle/blob/master/LICENSE.txt 
+*/
+
+2.Flexslider
+/*!
+* Thanks to Tyler Smith (@mbmufffin) and WooThemes  for  jQuery FlexSlider v2.2.0 ( http://www.woothemes.com/flexslider/)
+* Free to use under the GPLv2 license: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+3. prettyPhoto
+ /*
+*Thanks to  Stephane Caron (http://www.no-margin-for-errors.com) for the usage permission of prettyPhoto-Lightbox clone for jQuery
+*License: the GPLv2 (http://www.gnu.org/licenses/gpl-2.0.html”
+*/
+
+ 4.FontAwesome
+ /*!
+*  Thanks to @davegandy for Font Awesome 4.1.0 by - http://fontawesome.io - @fontawesome
+*  License - http://fontawesome.io/license (Font: SIL OFL 1.1: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL, CSS: MIT License:http://en.wikipedia.org/wiki/MIT_License)
+*/
+
+ 5. Bootstrap v3.1.1
+ /*!
+*Thanks to http://getbootstrap.com for Bootstrap v3.1.1 with Copyright by Twitter, Inc.
+* Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+
+*/
+6. Image loading
+
+ /*Thanks to http://cssload.net for Get image loading form. Free to use under the license http://cssload.net/en/terms_of_use 
+ */
+
+7. Mobile Detect
+/*!
+*Thanks to Serban Ghita serbanghita@gmail.com and Victor Stanciu <vic.stanciu@gmail.com>  for this.
+*@license     MIT License https://github.com/serbanghita/Mobile-Detect/blob/master/LICENSE.txt
+ * @link        Official page: http://mobiledetect.net
+ *              GitHub Repository: https://github.com/serbanghita/Mobile-Detect
+ *              Google Code Old Page: http://code.google.com/p/php-mobile-detect/

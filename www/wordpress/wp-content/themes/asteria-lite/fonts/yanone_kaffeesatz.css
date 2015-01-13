@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'kaffeesatzthin';
+    src: url('../fonts/yanone_kaffeesatz/yanonekaffeesatz-extralight-webfont.eot');
+    src: url('../fonts/yanone_kaffeesatz/yanonekaffeesatz-extralight-webfont.eot?iefix') format('eot'),
+	     url('../fonts/yanone_kaffeesatz/yanonekaffeesatz-extralight-webfont.svg#webfontiVAlVXNY') format('svg'),
+         url('../fonts/yanone_kaffeesatz/yanonekaffeesatz-extralight-webfont.woff') format('woff'),
+         url('../fonts/yanone_kaffeesatz/yanonekaffeesatz-extralight-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+h1, h2, h3, h4, h5, h6, #topmenu ul li a, .text_block, .lay1_title h3, #sidebar .widget .widgettitle, .left_arro, .right_arro, #submit, .logo h1 a, .logo h2 a, .widget_calendar caption, .rel_content a, #ast_related ul li a, .fourofour a{font-family: 'kaffeesatzthin';font-weight: normal;}
+body .backupfont{font-family: 'kaffeesatzthin'!important;font-weight: normal;}
+.logo h1, .logo h2{ font-size:60px;}
+
+h1{ font-size:40px; }
+h2{font-size:28px;}
+h3{font-size:24px;}
+h4{font-size:20px;}
+h5{font-size:18px;}
+h6{font-size:14px;}
+.postitle a{font-size:30px;}	
+.single_page_post .postitle a{ font-size:24px;}
+#topmenu ul li a{font-size:18px;}
+#footer .widgets .widgettitle, #midrow .widgets .widgettitle a, .widget_calendar caption{ font-size:24px;}
+#sidebar .widget .widgettitle, #home_widgets .widget .widgettitle{ font-size:28px;}
+.rel_content a, #ast_related ul li a{ font-size:18px;}

@@ -1,0 +1,157 @@
+#. Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sequel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Fri Apr 11 2014 02:24:57 GMT+0100 (GMT Standard Time)\n"
+"POT-Revision-Date: Fri Apr 11 2014 02:25:00 GMT+0100 (GMT Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;"
+"_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;"
+"_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;"
+"esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c;"
+"comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: /content-home.php:14
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: /content-home.php:33
+msgid "Leave a comment"
+msgstr ""
+
+#: /content-home.php:33
+msgid "1 Comment"
+msgstr ""
+
+#: /content-home.php:33
+msgid "% Comments"
+msgstr ""
+
+#: /content-home.php:37 /page-templates/contributors.php:35
+msgid "Edit"
+msgstr ""
+
+#: /content-home.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: /content-home.php:46
+msgid "Pages:"
+msgstr ""
+
+#: /functions.php:19
+msgid "Social Profile menu in left sidebar"
+msgstr ""
+
+#: /functions.php:157
+msgid "Continue Reading &#8250;&#8250;"
+msgstr ""
+
+#: /functions.php:205
+msgid "All Articles by %s"
+msgstr ""
+
+#: /functions.php:210
+msgid "%d Article"
+msgid_plural "%d Articles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /header.php:51
+msgid "Search"
+msgstr ""
+
+#: /header.php:55
+msgid "Primary Menu"
+msgstr ""
+
+#: /header.php:56
+msgid "Skip to content"
+msgstr ""
+
+#: /inc/sequel-customizer.php:5
+msgid "TwentyFourteen Home Options"
+msgstr ""
+
+#: /inc/sequel-customizer.php:6
+msgid ""
+"Use the following settings to set home options. A screen refresh may be "
+"required to see some of the changes in the customizer! Top Grid will split the "
+"blog feed in to a column of 3/4 latest posts in grid format with the rest of "
+"the posts as a standard layout. The grid will first look for Sticky posts and "
+"if there are none it will return the latest posts - So if using the grid for "
+"top section and have sticky posts then make sure the number of sticky posts "
+"matches the number of posts selected for top grid!"
+msgstr ""
+
+#: /inc/sequel-customizer.php:23
+msgid "Set Overall Header max-height (numbers only!) - Default is 240."
+msgstr ""
+
+#: /inc/sequel-customizer.php:39
+msgid "Upload a logo"
+msgstr ""
+
+#: /inc/sequel-customizer.php:57
+msgid "Enter Logo Alt Text Here"
+msgstr ""
+
+#: /inc/sequel-customizer.php:70
+msgid "Featured Location"
+msgstr ""
+
+#: /inc/sequel-customizer.php:75
+msgid "Default - Above Content/Sidebar"
+msgstr ""
+
+#: /inc/sequel-customizer.php:76
+msgid "Below Menu - Fullwidth"
+msgstr ""
+
+#: /inc/sequel-customizer.php:91
+msgid "Disable Home Top Grid"
+msgstr ""
+
+#: /inc/sequel-customizer.php:103
+msgid "Number of posts for top grid"
+msgstr ""
+
+#: /inc/sequel-customizer.php:116
+msgid "Blog Feed Layout"
+msgstr ""
+
+#: /inc/sequel-customizer.php:121
+msgid "Default Layout"
+msgstr ""
+
+#: /inc/sequel-customizer.php:122
+msgid "Grid Layout"
+msgstr ""
+
+#: /inc/sequel-customizer.php:136
+msgid "Switch Home Grid Columns to 4?"
+msgstr ""
+
+#: /inc/sequel-customizer.php:152
+msgid "Switch Child theme home feed to excerpts?"
+msgstr ""
+
+#: /inc/sequel-customizer.php:168
+msgid ""
+"Enter desired home excerpt length for this child theme (numbers only!). - "
+"default is 55."
+msgstr ""

@@ -1,0 +1,47 @@
+.slider-settings input[type="text"],
+.slider-settings select{
+	width: 200px;
+}
+.slider-images {
+	width: 600px;
+}
+.slide-placeholder {
+	display: none;
+}
+#sortable {
+	list-style-type: none;
+	margin: 20px 0;
+	padding: 0;
+}
+#sortable li {
+	margin: 0 3px 3px 3px;
+	padding: 0.4em 1.6em;
+	font-size: 1.4em;
+	position: relative;
+}
+#sortable li span.ui-icon {
+	position: absolute;
+	margin-left: -1.3em;
+	cursor: pointer;
+}
+
+#sortable input[type="text"] {
+	font-weight: normal;
+	padding-left: 10px;
+	padding-right: 68px;
+}
+.remove-slide {
+	position: absolute;
+	right: 5px;
+	top: 13px;
+}
+.add-image {
+	position: absolute;
+	right: 25px;
+	top: 7px;
+	font-size: 12px;
+	font-weight: normal;
+	padding: 5px;
+	border-radius: 5px;
+	background: #f1f1f1;
+}

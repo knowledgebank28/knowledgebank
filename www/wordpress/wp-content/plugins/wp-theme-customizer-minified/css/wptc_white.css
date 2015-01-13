@@ -1,0 +1,44 @@
+/**!
+ * @package WP Theme Customizer
+ */
+/*
+Style : White
+*/
+
+#wptc_module{
+	background: #e9e9e9;
+	border: 1px solid #ccc;
+}
+
+#wptc_module_show, #wptc_module_hide{
+	background-color: #fefefe;
+	border-top: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	right: -31px !important;
+}
+
+#wptc_module #wptc_module_right{
+	background: #fefefe;
+}
+
+ul.wptc_module_menu li.active {
+    background-color: #fefefe;
+}
+
+.wptc_module_head .wptc_module_heading,
+#wptc_module_right .wptc_module_body,
+.wptc_module_body .wptc_module_heading,
+.wptc_save_message{
+	color: #555;
+}
+
+.wptc_module_head .wptc_module_slogan{
+	color: #777;
+}
+
+.wptc_color_input{
+	background: transparent !important;
+	text-shadow: 0 1px 0 #fefefe;
+	color: #333 !important;
+}

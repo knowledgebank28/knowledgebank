@@ -1,0 +1,58 @@
+a:hover,
+a:active {
+	outline: 0;
+	color: #E67E22;
+}
+.button:hover,
+button:hover,
+input[type="submit"]:hover,
+input[type="reset"]:hover,
+input[type="button"]:hover {
+    background: #E67E22;
+}
+input:focus,
+textarea:focus {
+	border-color: #E67E22;
+}
+.main-navigation ul ul {
+    border-top: 2px solid #E67E22;
+}
+.main-navigation ul > li.current_page_item > a, 
+.main-navigation ul > li.current_page_ancestor > a, 
+.main-navigation ul > li.current-menu-item > a, 
+.main-navigation ul > li > a:hover {
+	color: #E67E22;
+}
+.home #main article.hentry,
+.archive #main article.hentry,
+.search #main article.hentry {
+    border-bottom: 5px solid #E67E22;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);    
+}
+.home #main article.hentry:last-of-type,
+.archive #main article.hentry:last-of-type,
+.search #main article.hentry:last-of-type {
+	border: none;
+	box-shadow: none;
+}
+.page-header, 
+.blog .hentry.format-quote, 
+.archive .hentry.format-quote, 
+.blog .hentry.format-link, 
+.archive .hentry.format-link  {
+	background: #E67E22;
+}
+.format-separator i, 
+.entry-meta a:hover, 
+.entry-meta a:active, 
+.comment-meta a:hover, 
+.comment-meta a:active, .widget a:link, 
+.widget a:visited { 
+	color: #E67E22; 
+}
+.blog .format-quote .entry-wrapper, .archive .format-quote .entry-wrapper {
+	background-color: #E67E22;
+}
+.widget a:hover { 
+	color: rgba(230,126,34, 0.8); 
+}

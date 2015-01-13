@@ -1,0 +1,16 @@
+/**
+ * @package   Responsive Category Slider
+ * @author     ThemeLead Team <support@themelead.com>
+ * @copyright  Copyright 2014 themelead.com. All Rights Reserved.
+ * @license    GPLv2 or later - http://www.gnu.org/licenses/gpl-2.0.html
+ * Websites: http://www.themelead.com
+ * Technical Support:  Free Forum Support - http://support.themelead.com
+ */
+#b-insert-shortcode label { display: block; margin-bottom: 10px !important; clear: both; width: 100%;}
+#b-insert-shortcode input[type="text"]{ display: block; width: 100%; padding: 1.5% 0;}
+#b-insert-shortcode textarea{display: block; width: 100%; padding: 2% 0;;}
+#b-insert-shortcode select {width: 100%;}
+#b-insert-shortcode #tag_lists, #b-insert-shortcode #tax_name, #b-insert-shortcode #custom_post, #b-insert-shortcode #tax_id{display: none;}
+.wp_themeSkin .mceSplitButton span.mceAction.mce_b_insert_shortcode_editor{background-image: url('../images/responsive-category-slider-logo.png');}
+.mce-toolbar .mce-btn i.mce-i-icon-b-category-slider{background-image: url('../images/responsive-category-slider-logo.png');}
+.mce-window.mce-in{position: absolute;}

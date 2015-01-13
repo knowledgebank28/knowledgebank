@@ -1,0 +1,25 @@
+Theme Name:   Sequel
+File Name:    Changelog
+Tested up to: 3.9
+Stable tag:	  1.0.4
+
+== Changelog ==
+
+= 1.0.4 =
+* Fixed bug on blog feed top grid not showing when front page is set to a static page.
+
+= 1.0.3 =
+* Added function to include parent theme's rtl.css when needed - file(s): functions.php.
+* Added .pot file for ease of translation
+
+= 1.0.2 =
+* NEW: Added option to combine the grid layout with the standard layout for the blog feed. {Experimental and therefore may need some adjustments}
+
+= 1.0.1 =
+* Adjusted Featured content fullwidth right padding to account for Fourteen Extended Primary sidebar switch to right.
+* CSS adjustments for the home-grid layout - pull entry-header up over the post thumbnail as with the standard view style.
+* Added alt text for header image
+* NEW: Added option for logo alt text
+
+= 1.0.0 =
+Initial Release 

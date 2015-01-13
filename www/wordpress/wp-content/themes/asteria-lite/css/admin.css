@@ -1,0 +1,118 @@
+/* CSS Document */
+#redux-container{ max-width:85%;}
+.display_header h2{ display:block; width:117px; height:27px; text-indent:-9999999px; background:url(asterialite_logo.png) no-repeat; text-align:left;}
+#redux-sidebar #redux-group-menu li a:hover, #redux-sidebar #redux-group-menu li.active a:hover{ color:#19ca60;}
+
+.redux-group-tab .form-table tr th, .redux-group-tab .form-table tr td{ padding:20px 20px 40px 20px;}
+.redux-group-tab .form-table tr th{width:40%;}
+.tr_asteria-slides th{width:0!important; padding:0!important;}
+.tr_asteria-custom-css th{ display:none;}
+#custom-css-textarea{ min-height:500px;}
+
+.ptitle_font_id_previewer{ font-size:30px!important; line-height:30px;}
+
+.front_sub{ margin:20px 0; padding:0;text-align:center; background:#f5f5f5; -webkit-border-radius:5px; border-radius:5px;border:1px solid #eee;}
+.front_sub li{ list-style-type:none; display:inline-block; }
+.front_sub li{ color:#aaa; padding:15px 20px; border-right:1px solid #eee; cursor:pointer; margin-bottom:0;}
+.front_sub li:last-child{ border:none;}
+
+.front_sub li.active{ background:#fff; color:#888; font-weight:bold;}
+
+
+.tr_asteria-map-info:parent, .tr_asteria-callaction-info:parent, .tr_asteria-widget-info:parent{ display:none;}
+.tr_asteria-home_sort_id{ background:#f5f5f5;}
+
+#asteria-block1_textarea_id, #asteria-block2_textarea_id, #asteria-block3_textarea_id, #asteria-block4_textarea_id{ padding-bottom:50px;}
+
+#redux-main .redux-typography-container .typography-preview{ max-width:500px!important;}
+.logo_font_id_previewer{ color:#333!important;}
+
+/*Hide Default value under title*/
+.redux-group-tab .showDefaults{ display:none!important;}
+
+
+/*Documentation Tab*/
+.docc{ line-height:24px;}
+#docu_gallery, #docu_front, #docu_img, #docu_vid, #docu_blog, #docu_contct, #docu_bg, #docu_headr, #docu_menu, #docu_styling, #docu_wdgts, #docu_shorts, #docu_supp{ display:none;}
+#ast_docu ol li{ cursor:pointer;}
+#ast_docu ol li:hover{color:#db5a49;}
+.docuback{ cursor:pointer; color:#26cd94;}
+.docc h2{ font-weight:bold!important;}
+
+
+/*Upgrade to PRO */
+#tab_upg{ color:#aaa;}
+.up_ul{ margin:0; padding:0; margin-top:30px; text-align:center;}
+.up_ul li{ display:inline-block; width:70px; padding:10px 17px; background:#fff; color:#999; margin-left:-3px; border-right:1px solid #eee;border-bottom: 2px solid #eee; cursor:pointer;}
+.up_ul li.active{ color:#db5a49; font-weight:bold;border-bottom: 2px solid #db5a49;}
+.tab_option{}
+.tab_option h2{ font-weight:bold; text-align:center; margin:24px 0; color:#999!important;}
+
+.pro_block{width:29.7%; float:left; margin:1%; padding:0.6%; background:#fff; text-align:center; min-height:200px; color:#aaa; padding-top:15px; border:1px solid #f5f5f5;}
+.pro_block span{ display:block; width:30px; height:23px; margin:0 auto; -webkit-border-radius:50%; -moz-border-radius:50%;border-radius:50%; background:#eee; padding-top:7px;}
+.pro_block span i{}
+.pro_block h3{}
+.pro_block p{ padding:0 4px;}
+.screenp img{ margin:5px;}
+
+#compare, #compare td{ border:none;}
+.feat_top, .feat{ background:#fff; padding-left:12px; border-bottom:1px solid #eee!important;}
+.pro_top, .pro{ text-align:center; background:#e7fff2;border-bottom:1px solid #cefbe2!important;}
+.lite_top, .lite{ text-align:center; background:#feefec; border-bottom:1px solid #fae2df!important;}
+
+.yes, .no{width:16px; height:16px; display:block; text-indent:-999999px; margin:0 auto; margin-top:12px; }
+.yes{ background:url(tick.png);}
+.no{background:url(cross.png);}
+
+
+/*Slider Content Type*/
+.astbtn{background:#f3f3f3;background-image: linear-gradient(to bottom,#fff,#f3f3f3);background-image:-webkit-gradient(linear,left top,left bottom,from(#fefefe),to(#f4f4f4));background-image:-moz-linear-gradient(top,#fefefe,#f4f4f4); padding: 3px 20px;border: 1px solid #eee;color: #999!important; -webkit-border-radius:3px; -moz-border-radius:3px; border-radius:3px; margin-right:15px;}
+.ast_active{
+background-color: #21759b;
+background-image: -webkit-gradient(linear,left top,left bottom,from(#2a95c5),to(#21759b));
+background-image: -webkit-linear-gradient(top,#2a95c5,#21759b);
+background-image: -moz-linear-gradient(top,#2a95c5,#21759b);
+background-image: -ms-linear-gradient(top,#2a95c5,#21759b);
+background-image: -o-linear-gradient(top,#2a95c5,#21759b);
+background-image: linear-gradient(to bottom,#2a95c5,#21759b);
+border-color: #21759b;
+border-bottom-color: #1e6a8d;
+-webkit-box-shadow: inset 0 1px 0 rgba(120,200,230,.5);
+box-shadow: inset 0 1px 0 rgba(120,200,230,.5);
+color: #fff!important;
+text-decoration: none;
+text-shadow: 0 1px 0 rgba(0,0,0,.1);
+}
+
+.feat, .feat_top{ padding-left:15px!important;}
+
+
+/*Maintenance Mode*/
+.tr_asteria-offline_date_id{ border-bottom:none!important;}
+.tr_asteria-offline_date_id th, .tr_asteria-offline_date_id tr{ padding-bottom:0!important;}
+.tr_asteria-offline_time_id{ border-top:none!important;}
+#offline_time_id-text{width: 80px!important;}
+
+
+/*Slider Full Width Fixed*/
+.redux-group-tab .form-table{table-layout:fixed;}
+.tr_asteria-slides th{ display:none;}
+
+.tr_asteria-slides td{width:800px;display: inline-block;}
+
+.btn-demo, .btn-upgrade{ padding:10px 30px; font-size:14px; color:white; text-decoration:none; -webkit-border-radius:5px; border-radius:5px; -moz-border-radius:5px;}
+.btn-demo{ background:#2dcb73; margin-right:20px;}
+.btn-upgrade{ background:#db5a49;}
+.btn-demo:hover{ color:#fff; background:#39e686;}
+.btn-upgrade:hover{ color:#fff;background:#f56552;}
+
+@media screen and (max-width: 1366px){.tr_asteria-slides td{width:700px;}}
+@media screen and (max-width: 1280px){.tr_asteria-slides td{width:600px;}}
+
+@media screen and (max-width: 1280px){#redux-container{ max-width:100%;}}
+
+/*Time Picker*/
+.ui-timepicker-wrapper{overflow-y:auto;height:150px;width:6.5em;background:#fff;border:1px solid #ddd;-webkit-box-shadow:0 5px 10px rgba(0,0,0,.2);-moz-box-shadow:0 5px 10px rgba(0,0,0,.2);box-shadow:0 5px 10px rgba(0,0,0,.2);outline:0;z-index:10001;margin:0}.ui-timepicker-wrapper.ui-timepicker-with-duration{width:11em}.ui-timepicker-list{margin:0;padding:0;list-style:none}.ui-timepicker-duration{margin-left:5px;color:#888}.ui-timepicker-list:hover .ui-timepicker-duration{color:#888}.ui-timepicker-list li{padding:3px 0 3px 5px;cursor:pointer;white-space:nowrap;color:#000;list-style:none;margin:0}.ui-timepicker-list:hover .ui-timepicker-selected{background:#fff;color:#000}.ui-timepicker-list .ui-timepicker-selected:hover,.ui-timepicker-list li:hover,li.ui-timepicker-selected{background:#1980EC;color:#fff}.ui-timepicker-list li:hover .ui-timepicker-duration,li.ui-timepicker-selected .ui-timepicker-duration{color:#ccc}.ui-timepicker-list li.ui-timepicker-disabled,.ui-timepicker-list li.ui-timepicker-disabled:hover,.ui-timepicker-list li.ui-timepicker-selected.ui-timepicker-disabled{color:#888;cursor:default}.ui-timepicker-list li.ui-timepicker-disabled:hover,.ui-timepicker-list li.ui-timepicker-selected.ui-timepicker-disabled{background:#f2f2f2}
+
+/*WP 3.9 FIX*/
+#redux-main textarea, #redux-main input, #redux-main select, #redux-main button{ border:none!important;}

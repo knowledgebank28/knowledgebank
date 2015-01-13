@@ -1,0 +1,56 @@
+/**
+ * @package   Responsive Category Slider
+ * @author     ThemeLead Team <support@themelead.com>
+ * @copyright  Copyright 2014 themelead.com. All Rights Reserved.
+ * @license    GPLv2 or later - http://www.gnu.org/licenses/gpl-2.0.html
+ * Websites: http://www.themelead.com
+ * Technical Support:  Free Forum Support - http://support.themelead.com
+ */
+
+@media (min-width: 481px){
+	#b-plugins-view{padding: 0; border: none; border-bottom: none;}
+	.b-plugins-view-in{border-bottom: 1px solid #D0D0D0;}
+	.b-plugins-view-in .b-menu-categories{margin-left: 0;}
+	#b-ajax-results-html{margin-left: 0;}
+	#b-plugins-view .flex-control-nav{border: none; bottom: -30px; right: 0; padding: 8px 0;}
+	#b-plugins-view .flex-control-nav li:last-child{margin-right: 0;}
+	.b-slider-thumbnail{margin-bottom: 6px;}
+	.b-li-child-flex >.row >div h3{margin-bottom: 1px;}
+	.b-plugins-category .b-li-child-flex >.row >div h3, .b-li-child-flex >.row >div h3 a{color: #333; font-weight: bold;}
+	.b-li-child-flex >.row >div h3 a:hover{color: #55d737;}
+	.b-li-child-flex >.row >div p, .b-li-child-flex >.row >div p a{font-size: 14px; line-height: 16px; text-decoration: none;}
+	.b-li-child-flex >.row >div p a:hover{color: #55d737;}
+	.b-li-child-flex >.row >div p a:hover{text-decoration: underline;}
+	.b-li-child-flex >.row >div .b-product-summary p{margin-bottom: -1px;}
+	/*Menu Vertical*/
+	ul.b-menu-category >li{border-bottom: 1px solid #D0D0D0;}
+	ul.b-menu-category >li:last-child{border-bottom: none;}
+	.b-plugins-category ul.b-menu-category >li a{background: #fff; color: #656565; font-size: 14px; padding: 9px 0; position: relative; transition: all 0.5s; -webkit-transition: all 0.5s; -moz-transition: all 0.5s;}
+	.b-plugins-category .b-menu-horizontal ul.b-menu-category >li a{padding: 9px 5px 9px 17px;}
+	.b-plugins-category ul.b-menu-category >li a:hover{color: #55d737;}
+	ul.b-menu-category >li a:before{content: " "; position: absolute; left: 0; bottom: -1px; height: 1px; width: 0;  border-bottom: 1px solid #55d737; transition: width 0.5s; -webkit-transition: width 0.5s; -moz-transition: width 0.5s; }
+	.b-plugins-category ul.b-menu-category >li a.b-menu-active, #b-plugins-view ul.b-menu-category >li a:hover{color: #55d737;}
+	ul.b-menu-category >li a:hover{text-indent: 10px;}
+	ul.b-menu-category >li a.b-menu-active:before, ul.b-menu-category >li a:hover:before{width: 50%;} 
+	/*Menu Horizontal*/
+	.b-menu-horizontal{z-index: 3;}
+	.b-menu-horizontal .b-menu-category ul.b-sub-menu li a, .b-menu-horizontal .b-menu-category li >a{padding: 9px 5px 9px 17px; display: inline-block;}
+	.b-menu-horizontal .b-menu-category ul.b-sub-menu li a{font-size: 12px;}
+	.b-menu-horizontal .b-menu-category li:hover >a{background: none; color: #55d737;} 
+	.b-menu-horizontal .b-menu-category ul.b-sub-menu li a:hover{color: #55d737;}
+	.b-menu-horizontal .b-menu-category ul.b-sub-menu li a:hover, .b-menu-horizontal .b-menu-category >li >a:hover{text-indent: 0;}
+	.b-plugins-category a.b-parent.b-home-parent:hover, .b-plugins-category a.b-parent.b-home-parent.b-menu-active, .b-menu-horizontal .b-menu-category >li:hover >a, .b-menu-horizontal ul.b-menu-category >li a:hover, .b-menu-horizontal ul.b-menu-category >li a.b-menu-active{color: #55d737; background: none;}
+	.b-menu-horizontal ul.b-menu-category >li a:hover:before, .b-menu-horizontal ul.b-menu-category >li a.b-menu-active:before{content: none;}
+	.b-menu-horizontal .b-menu-category >li ul a:hover, .b-menu-horizontal .b-menu-category >li ul li ul a:hover, .b-menu-horizontal .b-menu-category >li ul li ul li ul a:hover{background: none;}
+	.b-menu-horizontal .b-menu-category li:hover, .b-menu-horizontal .b-menu-category li.b-hori-menu-active, .b-menu-horizontal .b-menu-category li:hover >i, .b-menu-horizontal .b-menu-category li.b-hori-menu-active >i{color: #55d737;}
+	.b-slider-thumbnail .b-face-post{background: #55d737;}
+}
+@media (max-width: 481px){
+	div#b-plugins-view{padding: 0; border: none;}
+	ul.b-menu-category >li{border-bottom: 1px solid #D0D0D0;}
+	ul.b-menu-category >li a.b-vertical{background: none; color: #333; padding: 9px 0; font-size: 14px; transition: all 0.5s; -webkit-transition: all 0.5s; -moz-transition: all 0.5s; }
+	ul.b-menu-category >li a.b-vertical:hover{color: #55d737; text-indent: 10px;}
+	ul.b-menu-category >li a.b-vertical.b-toggle{ border-bottom: 1px solid #D0D0D0;}
+	ul.b-menu-category >li a:hover, ul.b-menu-category >li a.b-menu-active{background: none;}
+	.b-flexslider .slides > li .b-product-summary h3{margin-top: -3px;}
+}
